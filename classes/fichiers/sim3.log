@@ -1,0 +1,620 @@
+Cause d'arret : Nombre d'iterations max atteintes : 501
+Total (Recolte 878 || Rapporte 780) / 2000
+<Fourmis>
+X:6,124 ; Y:6,063 ; Angle : 1,452, Cases visitees sous influence : | 4 4 || 5 4 || 5 5 || 5 6 || 6 6 |
+X:4,480 ; Y:4,017 ; Angle : -0,456, Cases visitees sous influence : | 3 4 || 4 4 |
+X:5,768 ; Y:6,073 ; Angle : 0,220, Cases visitees sous influence : | 3 4 || 4 4 || 5 4 || 4 4 || 5 5 || 5 6 |
+X:0,899 ; Y:2,113 ; Angle : -0,084, Cases visitees sous influence : | 0 1 || 0 2 |
+X:3,890 ; Y:3,126 ; Angle : 1,959, Cases visitees sous influence : 
+X:5,727 ; Y:6,046 ; Angle : -0,332, Cases visitees sous influence : | 4 4 || 5 4 || 5 5 || 5 6 |
+X:5,794 ; Y:5,562 ; Angle : -1,417, Cases visitees sous influence : | 6 6 || 5 6 || 5 7 || 5 6 || 5 5 |
+X:5,811 ; Y:5,265 ; Angle : -1,163, Cases visitees sous influence : | 6 6 || 5 6 || 5 5 |
+X:5,855 ; Y:4,649 ; Angle : 1,542, Cases visitees sous influence : | 4 4 || 6 4 || 5 4 |
+X:5,866 ; Y:6,901 ; Angle : -1,937, Cases visitees sous influence : | 6 6 || 5 6 |
+X:1,825 ; Y:3,137 ; Angle : -0,225, Cases visitees sous influence : | 0 1 || 0 2 || 1 2 || 1 3 |
+X:1,082 ; Y:3,026 ; Angle : 1,153, Cases visitees sous influence : | 0 1 || 0 2 || 1 2 || 0 2 || 1 2 || 1 3 |
+X:0,130 ; Y:2,112 ; Angle : -2,031, Cases visitees sous influence : | 2 3 || 1 3 || 1 2 || 0 2 || 1 2 || 0 2 || 0 2 |
+X:5,808 ; Y:6,331 ; Angle : -1,859, Cases visitees sous influence : | 6 6 || 5 6 |
+X:3,448 ; Y:4,025 ; Angle : -0,356, Cases visitees sous influence : | 3 4 |
+X:4,505 ; Y:4,981 ; Angle : 3,575, Cases visitees sous influence : | 6 6 || 5 6 || 6 6 || 5 5 || 5 4 || 4 4 |
+X:5,130 ; Y:4,907 ; Angle : 3,411, Cases visitees sous influence : | 6 6 || 5 6 || 5 5 || 6 5 || 6 4 || 5 4 || 5 5 || 5 4 |
+X:1,021 ; Y:2,126 ; Angle : -0,099, Cases visitees sous influence : | 0 1 || 0 2 || 1 2 |
+X:2,539 ; Y:3,388 ; Angle : 2,864, Cases visitees sous influence : | 2 3 |
+X:5,075 ; Y:4,287 ; Angle : 1,096, Cases visitees sous influence : | 3 4 || 4 4 || 5 4 |
+X:6,129 ; Y:6,888 ; Angle : 1,498, Cases visitees sous influence : | 3 4 || 4 4 || 5 4 || 5 5 || 5 6 || 6 6 || 5 6 || 6 6 |
+X:2,839 ; Y:3,394 ; Angle : 2,809, Cases visitees sous influence : | 2 3 |
+X:3,941 ; Y:4,064 ; Angle : -1,285, Cases visitees sous influence : | 6 6 || 5 6 || 5 5 || 5 4 || 5 5 || 5 4 || 4 4 || 3 5 || 3 4 |
+X:1,885 ; Y:3,171 ; Angle : -1,257, Cases visitees sous influence : | 2 3 || 1 3 |
+X:5,053 ; Y:5,786 ; Angle : 1,437, Cases visitees sous influence : | 3 4 || 4 4 || 5 4 || 5 5 |
+X:1,748 ; Y:3,185 ; Angle : 0,325, Cases visitees sous influence : | 0 1 || 0 2 || 0 1 || 1 1 || 1 2 || 0 2 || 1 2 || 1 3 |
+X:1,091 ; Y:2,811 ; Angle : 1,498, Cases visitees sous influence : | 0 1 || 0 2 || 1 2 || 0 2 || 1 2 |
+X:5,819 ; Y:5,262 ; Angle : -1,501, Cases visitees sous influence : | 6 6 || 5 6 || 5 5 |
+X:5,850 ; Y:5,314 ; Angle : -1,545, Cases visitees sous influence : | 6 6 || 5 6 || 5 5 |
+X:2,436 ; Y:3,326 ; Angle : 2,926, Cases visitees sous influence : | 2 3 |
+X:5,335 ; Y:4,885 ; Angle : 2,994, Cases visitees sous influence : | 5 7 || 5 6 || 6 6 || 5 6 || 5 5 || 5 4 |
+X:5,918 ; Y:1,991 ; Angle : -5,121, Cases visitees sous influence : 
+X:3,812 ; Y:4,080 ; Angle : -0,257, Cases visitees sous influence : | 3 4 |
+X:5,001 ; Y:4,847 ; Angle : 2,965, Cases visitees sous influence : | 6 6 || 5 6 || 5 5 || 5 4 |
+X:0,673 ; Y:5,350 ; Angle : 1,181, Cases visitees sous influence : | 2 3 || 1 3 || 1 2 |
+X:5,260 ; Y:5,236 ; Angle : 1,535, Cases visitees sous influence : | 3 4 || 4 4 || 5 4 || 5 5 |
+X:2,085 ; Y:3,171 ; Angle : -0,361, Cases visitees sous influence : | 0 1 || 0 2 || 1 2 || 1 3 || 2 3 |
+X:5,921 ; Y:6,089 ; Angle : -1,226, Cases visitees sous influence : | 6 6 || 5 6 |
+X:2,402 ; Y:3,616 ; Angle : 3,258, Cases visitees sous influence : | 2 3 |
+X:5,192 ; Y:5,861 ; Angle : 1,107, Cases visitees sous influence : | 3 4 || 4 4 || 5 4 || 5 5 |
+X:2,235 ; Y:6,358 ; Angle : -1,883, Cases visitees sous influence : | 1 7 || 2 7 || 1 7 || 1 6 || 2 6 |
+X:1,033 ; Y:3,009 ; Angle : 1,751, Cases visitees sous influence : | 0 1 || 0 2 || 1 2 || 1 3 |
+X:4,922 ; Y:4,946 ; Angle : 2,689, Cases visitees sous influence : | 6 6 || 5 6 || 5 5 || 6 5 || 5 5 || 6 5 || 6 4 || 5 4 || 4 4 |
+X:4,901 ; Y:3,721 ; Angle : -1,511, Cases visitees sous influence : | 4 4 |
+X:1,252 ; Y:3,109 ; Angle : -0,205, Cases visitees sous influence : | 0 1 || 0 2 || 0 1 || 0 2 || 1 2 || 1 3 |
+X:5,153 ; Y:4,945 ; Angle : 3,430, Cases visitees sous influence : | 6 6 || 5 6 || 5 5 || 5 4 |
+X:3,576 ; Y:3,163 ; Angle : 0,338, Cases visitees sous influence : 
+X:5,747 ; Y:5,441 ; Angle : -2,067, Cases visitees sous influence : | 6 6 || 5 6 || 5 5 |
+X:1,096 ; Y:2,892 ; Angle : 2,770, Cases visitees sous influence : | 2 3 || 1 3 || 1 2 |
+X:3,885 ; Y:4,100 ; Angle : 0,334, Cases visitees sous influence : | 3 4 |
+</Fourmis>
+<Ressources>
+Nourriture[id:582 quantite: 180]  en position (0, 0)
+Pheromone[id:643 quantite: 0]  en position (0, 1) Vers colonie [ Direction : 0,1 | Taux : 2480 ] Aucun pheromone vers nourriture
+Pheromone[id:627 quantite: 0]  en position (0, 2) Vers colonie [ Direction : 1,0 | Taux : 2474 ] Vers nourriture [ Direction : 0,-1 | Taux : 494 ]
+Pheromone[id:624 quantite: 0]  en position (0, 3) Vers colonie [ Direction : 1,0 | Taux : 2079 ] Aucun pheromone vers nourriture
+Pheromone[id:629 quantite: 0]  en position (0, 4) Vers colonie [ Direction : 1,0 | Taux : 2088 ] Aucun pheromone vers nourriture
+Pheromone[id:630 quantite: 0]  en position (0, 5) Vers colonie [ Direction : 1,0 | Taux : 2100 ] Aucun pheromone vers nourriture
+Nourriture[id:584 quantite: 159]  en position (0, 6)
+Nourriture[id:585 quantite: 218]  en position (0, 7)
+Obstacle[id:586 quantite: 0]  en position (0, 8)
+Nourriture[id:587 quantite: 250]  en position (1, 0)
+Pheromone[id:642 quantite: 0]  en position (1, 1) Vers colonie [ Direction : 0,1 | Taux : 2299 ] Vers nourriture [ Direction : -1,0 | Taux : 450 ]
+Pheromone[id:620 quantite: 0]  en position (1, 2) Vers colonie [ Direction : 0,1 | Taux : 2476 ] Vers nourriture [ Direction : -1,0 | Taux : 498 ]
+Pheromone[id:615 quantite: 0]  en position (1, 3) Vers colonie [ Direction : 1,0 | Taux : 2479 ] Vers nourriture [ Direction : 0,-1 | Taux : 498 ]
+Pheromone[id:618 quantite: 0]  en position (1, 4) Vers colonie [ Direction : 1,0 | Taux : 2037 ] Vers nourriture [ Direction : 1,0 | Taux : 238 ]
+Pheromone[id:626 quantite: 0]  en position (1, 5) Vers colonie [ Direction : 1,0 | Taux : 2074 ] Vers nourriture [ Direction : 0,1 | Taux : 242 ]
+Pheromone[id:631 quantite: 0]  en position (1, 6) Vers colonie [ Direction : 1,0 | Taux : 2275 ] Vers nourriture [ Direction : 0,1 | Taux : 478 ]
+Pheromone[id:639 quantite: 0]  en position (1, 7) Vers colonie [ Direction : 1,0 | Taux : 2144 ] Vers nourriture [ Direction : -1,0 | Taux : 430 ]
+Obstacle[id:588 quantite: 0]  en position (1, 8)
+Obstacle[id:589 quantite: 0]  en position (2, 0)
+Obstacle[id:590 quantite: 0]  en position (2, 1)
+Pheromone[id:612 quantite: 0]  en position (2, 2) Vers colonie [ Direction : 0,1 | Taux : 2194 ] Vers nourriture [ Direction : 0,1 | Taux : 134 ]
+Pheromone[id:608 quantite: 0]  en position (2, 3) Vers colonie [ Direction : 1,0 | Taux : 2497 ] Vers nourriture [ Direction : -1,0 | Taux : 448 ]
+Pheromone[id:613 quantite: 0]  en position (2, 4) Vers colonie [ Direction : 0,-1 | Taux : 2257 ] Aucun pheromone vers nourriture
+Pheromone[id:616 quantite: 0]  en position (2, 5) Vers colonie [ Direction : 0,-1 | Taux : 2251 ] Aucun pheromone vers nourriture
+Pheromone[id:628 quantite: 0]  en position (2, 6) Vers colonie [ Direction : 0,-1 | Taux : 2281 ] Vers nourriture [ Direction : -1,0 | Taux : 480 ]
+Pheromone[id:635 quantite: 0]  en position (2, 7) Vers colonie [ Direction : 0,-1 | Taux : 2076 ] Vers nourriture [ Direction : -1,0 | Taux : 454 ]
+Pheromone[id:640 quantite: 0]  en position (2, 8) Vers colonie [ Direction : 0,-1 | Taux : 2088 ] Aucun pheromone vers nourriture
+Obstacle[id:591 quantite: 0]  en position (3, 0)
+Obstacle[id:592 quantite: 0]  en position (3, 1)
+Pheromone[id:609 quantite: 0]  en position (3, 2) Vers colonie [ Direction : 0,1 | Taux : 2321 ] Vers nourriture [ Direction : 1,0 | Taux : 254 ]
+Colonie[id:593 quantite: 780]  en position (3, 3)
+Pheromone[id:607 quantite: 0]  en position (3, 4) Vers colonie [ Direction : 0,-1 | Taux : 2498 ] Vers nourriture [ Direction : 1,0 | Taux : 375 ]
+Pheromone[id:617 quantite: 0]  en position (3, 5) Vers colonie [ Direction : 0,-1 | Taux : 2116 ] Vers nourriture [ Direction : 0,-1 | Taux : 292 ]
+Pheromone[id:625 quantite: 0]  en position (3, 6) Vers colonie [ Direction : 0,-1 | Taux : 2088 ] Aucun pheromone vers nourriture
+Pheromone[id:633 quantite: 0]  en position (3, 7) Vers colonie [ Direction : 0,-1 | Taux : 2073 ] Aucun pheromone vers nourriture
+Pheromone[id:638 quantite: 0]  en position (3, 8) Vers colonie [ Direction : 0,-1 | Taux : 2096 ] Aucun pheromone vers nourriture
+Pheromone[id:621 quantite: 0]  en position (4, 1) Vers colonie [ Direction : 0,1 | Taux : 2340 ] Vers nourriture [ Direction : 1,0 | Taux : 132 ]
+Pheromone[id:610 quantite: 0]  en position (4, 2) Vers colonie [ Direction : -1,0 | Taux : 2327 ] Vers nourriture [ Direction : 0,-1 | Taux : 216 ]
+Pheromone[id:606 quantite: 0]  en position (4, 3) Vers colonie [ Direction : -1,0 | Taux : 2485 ] Vers nourriture [ Direction : 0,-1 | Taux : 494 ]
+Pheromone[id:611 quantite: 0]  en position (4, 4) Vers colonie [ Direction : -1,0 | Taux : 2494 ] Vers nourriture [ Direction : 1,0 | Taux : 316 ]
+Obstacle[id:594 quantite: 0]  en position (4, 5)
+Obstacle[id:595 quantite: 0]  en position (4, 6)
+Obstacle[id:596 quantite: 0]  en position (4, 7)
+Obstacle[id:597 quantite: 0]  en position (4, 8)
+Obstacle[id:598 quantite: 0]  en position (5, 0)
+Nourriture[id:599 quantite: 27]  en position (5, 1)
+Pheromone[id:622 quantite: 0]  en position (5, 2) Vers colonie [ Direction : -1,0 | Taux : 2111 ] Vers nourriture [ Direction : 0,-1 | Taux : 174 ]
+Pheromone[id:614 quantite: 0]  en position (5, 3) Vers colonie [ Direction : -1,0 | Taux : 2146 ] Aucun pheromone vers nourriture
+Pheromone[id:619 quantite: 0]  en position (5, 4) Vers colonie [ Direction : -1,0 | Taux : 2497 ] Vers nourriture [ Direction : 0,1 | Taux : 441 ]
+Pheromone[id:623 quantite: 0]  en position (5, 5) Vers colonie [ Direction : 0,-1 | Taux : 2497 ] Vers nourriture [ Direction : 0,1 | Taux : 408 ]
+Pheromone[id:634 quantite: 0]  en position (5, 6) Vers colonie [ Direction : 0,-1 | Taux : 2496 ] Vers nourriture [ Direction : 1,0 | Taux : 489 ]
+Pheromone[id:641 quantite: 0]  en position (5, 7) Vers colonie [ Direction : 1,-1 | Taux : 2353 ] Vers nourriture [ Direction : 1,0 | Taux : 435 ]
+Obstacle[id:600 quantite: 0]  en position (6, 0)
+Obstacle[id:601 quantite: 0]  en position (6, 1)
+Obstacle[id:602 quantite: 0]  en position (6, 2)
+Obstacle[id:603 quantite: 0]  en position (6, 3)
+Pheromone[id:632 quantite: 0]  en position (6, 4) Vers colonie [ Direction : -1,0 | Taux : 2059 ] Vers nourriture [ Direction : -1,0 | Taux : 329 ]
+Pheromone[id:636 quantite: 0]  en position (6, 5) Vers colonie [ Direction : 0,-1 | Taux : 2063 ] Vers nourriture [ Direction : -1,0 | Taux : 464 ]
+Pheromone[id:637 quantite: 0]  en position (6, 6) Vers colonie [ Direction : -1,0 | Taux : 2498 ] Vers nourriture [ Direction : 0,1 | Taux : 412 ]
+Nourriture[id:604 quantite: 38]  en position (6, 7)
+Nourriture[id:605 quantite: 250]  en position (6, 8)
+</Ressources>
+<Evolution>
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|6
+0|6
+0|6
+0|14
+0|20
+0|20
+0|20
+0|25
+0|30
+0|30
+0|30
+0|30
+0|30
+0|34
+0|44
+0|46
+0|46
+0|46
+0|54
+0|56
+0|62
+0|64
+0|66
+0|71
+0|73
+0|78
+0|84
+0|94
+0|102
+6|110
+6|110
+6|110
+6|110
+6|110
+10|118
+16|125
+16|125
+16|125
+21|128
+30|128
+30|132
+34|132
+34|136
+41|136
+41|136
+41|136
+41|136
+41|144
+41|144
+41|147
+41|152
+41|156
+41|158
+41|158
+41|158
+41|158
+41|158
+41|158
+43|158
+43|158
+48|158
+48|164
+48|164
+48|164
+58|164
+58|164
+64|164
+64|164
+64|164
+64|164
+67|167
+67|167
+67|167
+67|167
+67|167
+73|167
+77|167
+77|172
+79|172
+81|172
+87|172
+93|177
+93|182
+93|193
+93|193
+93|193
+106|193
+111|196
+111|196
+111|199
+113|199
+113|199
+115|205
+123|205
+127|210
+127|210
+130|210
+130|215
+130|223
+130|223
+133|223
+133|223
+137|223
+139|223
+139|223
+145|227
+150|231
+150|231
+150|235
+150|241
+150|241
+150|241
+155|241
+155|241
+155|241
+155|241
+165|241
+169|241
+169|241
+169|241
+169|246
+171|246
+171|246
+171|246
+176|246
+176|251
+176|257
+183|257
+186|257
+188|257
+188|259
+188|264
+188|264
+191|270
+191|270
+197|270
+197|270
+197|270
+197|270
+202|270
+202|270
+202|275
+202|275
+202|275
+208|284
+208|284
+208|284
+208|286
+208|293
+214|293
+218|296
+218|296
+218|298
+218|302
+220|311
+220|315
+226|315
+231|315
+236|315
+236|317
+239|317
+244|319
+248|321
+248|321
+248|326
+253|326
+253|326
+253|326
+253|329
+253|331
+253|331
+258|331
+258|336
+258|336
+264|342
+269|350
+269|350
+271|350
+271|350
+271|350
+271|350
+275|350
+275|350
+289|367
+291|367
+291|373
+294|373
+294|377
+294|382
+302|382
+304|388
+304|394
+307|394
+307|394
+307|394
+307|400
+307|400
+307|400
+309|403
+309|403
+309|403
+309|403
+309|403
+309|403
+313|403
+313|403
+313|416
+313|416
+313|416
+313|416
+313|418
+313|418
+313|418
+313|418
+313|418
+313|422
+313|422
+320|424
+326|424
+326|424
+326|428
+329|428
+329|437
+329|446
+335|446
+341|446
+352|446
+354|446
+356|449
+361|454
+364|454
+364|460
+369|465
+371|465
+377|465
+377|465
+380|465
+380|470
+380|481
+384|481
+384|485
+389|485
+389|491
+389|491
+389|491
+395|493
+395|493
+395|493
+404|493
+404|496
+409|496
+414|496
+418|498
+422|498
+424|502
+430|502
+430|507
+430|507
+430|507
+430|507
+432|507
+432|513
+434|518
+434|518
+439|518
+439|520
+439|527
+439|527
+455|527
+455|527
+455|527
+455|527
+457|527
+457|527
+461|533
+461|538
+461|538
+464|544
+467|544
+469|547
+475|547
+475|547
+478|547
+485|547
+485|547
+490|547
+492|549
+492|549
+492|552
+492|552
+492|556
+492|556
+497|560
+497|565
+497|565
+497|565
+501|565
+501|565
+501|565
+507|565
+507|567
+507|576
+513|576
+519|576
+519|580
+519|586
+519|594
+519|594
+524|599
+526|599
+526|599
+526|599
+526|612
+526|615
+526|615
+528|615
+539|615
+543|619
+543|619
+543|624
+547|624
+550|632
+550|632
+550|632
+550|638
+550|644
+550|644
+558|647
+558|647
+558|647
+565|650
+565|650
+567|650
+567|650
+569|657
+575|657
+575|662
+575|662
+575|662
+575|662
+575|666
+575|670
+575|670
+575|670
+575|670
+575|676
+580|676
+580|676
+580|676
+580|676
+580|683
+580|683
+580|683
+580|683
+580|683
+583|683
+592|683
+595|683
+595|683
+600|689
+600|689
+600|692
+600|692
+607|697
+607|708
+609|708
+611|708
+613|708
+613|708
+613|708
+626|708
+626|713
+637|719
+639|719
+639|719
+639|725
+642|725
+646|725
+646|725
+652|725
+652|725
+652|725
+652|725
+652|725
+652|729
+652|729
+657|729
+659|729
+668|733
+668|733
+668|735
+668|735
+670|735
+670|735
+675|735
+675|735
+675|735
+675|735
+675|735
+675|735
+675|737
+681|741
+681|741
+689|746
+689|746
+689|748
+690|761
+690|761
+690|761
+690|767
+690|772
+690|772
+690|776
+690|776
+690|776
+690|776
+690|776
+690|776
+690|776
+695|776
+695|776
+695|776
+695|781
+695|781
+695|781
+698|781
+698|787
+698|787
+698|787
+700|787
+700|790
+700|795
+700|798
+708|800
+708|807
+708|813
+714|819
+714|819
+714|821
+719|823
+719|823
+719|823
+725|823
+725|823
+725|823
+725|834
+729|834
+729|839
+729|839
+729|845
+729|850
+729|850
+729|853
+733|853
+733|853
+733|853
+733|853
+737|853
+737|859
+739|866
+739|866
+739|866
+739|866
+742|870
+742|870
+742|870
+749|870
+755|870
+760|870
+762|870
+767|872
+774|872
+774|872
+780|872
+</Evolution>

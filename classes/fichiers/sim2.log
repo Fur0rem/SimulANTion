@@ -1,0 +1,2138 @@
+Cause d'arret : Toute la nourriture fut recoltee
+Iterations prises : 1438
+<Fourmis>
+X:5,822 ; Y:11,635 ; Angle : 33,311, Cases visitees sous influence : | 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 |
+X:1,987 ; Y:0,145 ; Angle : 6,536, Cases visitees sous influence : | 9 3 || 9 4 || 10 5 || 7 2 || 6 2 || 6 3 || 5 3 || 5 3 || 4 3 |
+X:1,461 ; Y:1,408 ; Angle : 4,309, Cases visitees sous influence : | 6 3 |
+X:1,309 ; Y:9,940 ; Angle : 5,040, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 || 10 6 || 11 6 || 5 4 || 4 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 0 7 || 1 7 || 1 8 || 0 10 |
+X:4,025 ; Y:14,556 ; Angle : 17,570, Cases visitees sous influence : | 8 4 || 5 2 || 4 2 || 5 2 || 4 2 || 5 2 || 5 3 || 4 3 || 3 3 || 3 2 || 3 3 || 3 2 || 3 3 || 2 3 || 6 7 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 7 10 || 6 10 || 6 11 || 6 12 |
+X:10,438 ; Y:14,778 ; Angle : 15,025, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 |
+X:1,253 ; Y:10,937 ; Angle : 9,536, Cases visitees sous influence : | 11 8 || 11 9 || 11 10 || 11 11 || 8 2 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 0 6 || 0 7 |
+X:10,355 ; Y:6,360 ; Angle : 1,544, Cases visitees sous influence : 
+X:9,003 ; Y:15,887 ; Angle : 17,024, Cases visitees sous influence : | 7 3 || 7 4 || 7 3 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 8 6 || 7 6 |
+X:9,893 ; Y:3,085 ; Angle : 13,741, Cases visitees sous influence : | 8 4 || 7 4 || 6 4 || 6 5 || 6 6 || 5 6 || 6 7 || 10 4 || 10 5 || 10 6 || 11 6 || 10 6 |
+X:7,078 ; Y:8,594 ; Angle : 2,323, Cases visitees sous influence : 
+X:8,609 ; Y:3,062 ; Angle : 15,172, Cases visitees sous influence : | 8 6 || 7 6 || 7 7 || 7 8 || 8 9 |
+X:1,620 ; Y:10,994 ; Angle : -3,091, Cases visitees sous influence : | 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 || 1 9 || 2 9 || 3 9 || 3 8 || 1 3 || 0 3 || 0 3 |
+X:6,973 ; Y:14,618 ; Angle : 4,756, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 8 6 || 7 6 |
+X:5,484 ; Y:4,440 ; Angle : 1,194, Cases visitees sous influence : | 8 7 || 8 8 || 8 9 || 9 9 || 8 7 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 || 5 13 || 5 14 || 4 2 |
+X:5,051 ; Y:5,091 ; Angle : 11,020, Cases visitees sous influence : | 8 6 || 8 4 || 8 5 || 8 6 || 7 6 |
+X:1,753 ; Y:0,961 ; Angle : 7,033, Cases visitees sous influence : 
+X:8,097 ; Y:3,992 ; Angle : 4,031, Cases visitees sous influence : 
+X:3,556 ; Y:1,772 ; Angle : 8,996, Cases visitees sous influence : | 8 7 || 8 8 || 8 9 || 9 9 || 9 10 |
+X:11,986 ; Y:7,110 ; Angle : 17,366, Cases visitees sous influence : | 9 3 || 9 4 || 10 4 || 9 4 || 10 4 || 10 5 || 10 6 || 10 5 |
+X:2,086 ; Y:9,903 ; Angle : -2,934, Cases visitees sous influence : | 7 3 || 7 4 || 6 4 || 7 5 || 6 6 || 10 4 || 10 5 || 10 6 || 11 6 || 10 6 || 11 6 || 8 2 || 5 4 || 4 4 || 4 3 || 3 3 || 2 3 || 1 3 || 1 8 |
+X:3,181 ; Y:2,457 ; Angle : 4,010, Cases visitees sous influence : | 7 3 |
+X:6,570 ; Y:11,735 ; Angle : 15,846, Cases visitees sous influence : | 9 9 || 9 10 || 9 11 || 9 12 || 10 12 || 10 13 |
+X:10,588 ; Y:1,018 ; Angle : -2,622, Cases visitees sous influence : 
+X:1,447 ; Y:6,323 ; Angle : -0,607, Cases visitees sous influence : | 7 3 || 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 6 || 0 10 || 0 11 |
+X:4,428 ; Y:3,393 ; Angle : 2,062, Cases visitees sous influence : | 8 2 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 || 1 9 || 2 9 || 5 3 || 4 2 |
+X:8,704 ; Y:3,457 ; Angle : 9,196, Cases visitees sous influence : 
+X:11,248 ; Y:10,597 ; Angle : 5,419, Cases visitees sous influence : 
+X:0,494 ; Y:5,295 ; Angle : 2,652, Cases visitees sous influence : | 7 2 || 6 2 || 6 3 || 5 3 || 6 3 |
+X:10,974 ; Y:11,516 ; Angle : -1,135, Cases visitees sous influence : 
+X:5,749 ; Y:6,335 ; Angle : 21,038, Cases visitees sous influence : | 6 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 || 6 12 || 5 12 || 5 13 || 6 13 |
+X:5,975 ; Y:14,910 ; Angle : 3,393, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 8 7 || 7 7 || 8 2 |
+X:5,556 ; Y:5,573 ; Angle : 2,345, Cases visitees sous influence : 
+X:7,974 ; Y:10,116 ; Angle : 4,505, Cases visitees sous influence : 
+X:2,546 ; Y:6,964 ; Angle : 3,222, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 0 3 || 0 3 || 1 3 || 0 3 |
+X:3,758 ; Y:15,926 ; Angle : 25,112, Cases visitees sous influence : | 8 4 || 7 4 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 8 7 || 7 7 || 7 8 |
+X:1,418 ; Y:12,068 ; Angle : 6,728, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 || 10 6 || 11 6 || 10 6 || 7 3 || 6 3 || 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 |
+X:0,012 ; Y:14,199 ; Angle : 4,493, Cases visitees sous influence : | 8 4 || 7 4 || 6 4 || 5 6 || 5 3 || 8 4 || 7 4 || 7 5 || 8 5 || 5 3 || 4 3 || 4 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 || 1 9 || 2 9 || 3 9 || 3 8 || 0 3 |
+X:0,294 ; Y:14,377 ; Angle : 5,105, Cases visitees sous influence : | 7 5 || 6 2 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 1 7 || 0 7 || 1 7 || 1 8 || 1 10 || 0 3 |
+X:1,415 ; Y:0,010 ; Angle : 6,302, Cases visitees sous influence : | 4 3 |
+X:4,797 ; Y:4,480 ; Angle : 1,054, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 6 3 || 5 3 |
+X:0,510 ; Y:1,202 ; Angle : 2,756, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 7 3 || 6 3 || 5 3 |
+X:9,882 ; Y:1,978 ; Angle : 6,247, Cases visitees sous influence : 
+X:1,953 ; Y:15,878 ; Angle : 1,261, Cases visitees sous influence : | 4 1 || 6 3 || 5 3 || 4 3 || 6 7 || 7 8 || 7 9 || 7 10 || 6 10 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 1 4 || 0 4 || 1 8 |
+X:8,037 ; Y:9,571 ; Angle : 5,433, Cases visitees sous influence : | 8 4 || 7 4 || 8 5 |
+X:5,973 ; Y:15,850 ; Angle : 10,759, Cases visitees sous influence : | 8 4 || 2 3 || 1 3 || 0 3 || 0 4 || 1 4 || 0 4 || 0 5 || 0 6 || 0 10 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 |
+X:5,058 ; Y:1,881 ; Angle : 9,112, Cases visitees sous influence : | 8 4 || 7 4 || 6 4 || 6 5 || 9 9 || 9 10 || 9 11 || 9 12 || 10 12 || 8 9 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 || 6 4 || 6 3 |
+X:0,654 ; Y:10,812 ; Angle : 1,558, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 5 3 || 4 3 || 3 3 |
+X:2,783 ; Y:0,691 ; Angle : 6,293, Cases visitees sous influence : | 7 3 || 7 4 || 7 3 || 1 3 || 0 3 |
+X:3,390 ; Y:2,535 ; Angle : 4,019, Cases visitees sous influence : | 7 3 |
+X:1,609 ; Y:13,446 ; Angle : 6,054, Cases visitees sous influence : | 3 2 || 6 2 || 6 3 || 7 4 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 |
+X:10,929 ; Y:1,586 ; Angle : 23,250, Cases visitees sous influence : | 8 4 || 7 6 || 7 7 || 8 7 || 7 7 || 7 8 |
+X:0,871 ; Y:0,455 ; Angle : 2,273, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 || 6 7 || 7 7 || 6 7 || 7 8 || 7 9 || 7 10 || 6 10 || 7 4 || 7 3 || 6 3 || 6 3 || 5 3 |
+X:11,669 ; Y:12,055 ; Angle : 13,558, Cases visitees sous influence : 
+X:0,029 ; Y:15,471 ; Angle : 4,595, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 || 4 3 || 0 3 |
+X:10,266 ; Y:15,596 ; Angle : 10,044, Cases visitees sous influence : 
+X:7,150 ; Y:9,022 ; Angle : 10,579, Cases visitees sous influence : | 7 5 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 7 11 || 6 11 || 7 11 || 6 11 || 7 11 || 7 10 || 6 10 || 6 11 || 7 11 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 || 5 13 || 5 14 || 5 15 || 4 15 || 4 14 || 4 15 |
+X:5,628 ; Y:7,067 ; Angle : 2,045, Cases visitees sous influence : | 7 3 |
+X:8,607 ; Y:8,928 ; Angle : 18,541, Cases visitees sous influence : | 8 6 || 7 6 || 7 7 || 7 8 || 7 8 || 7 9 || 7 10 || 6 10 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 || 5 13 || 5 14 || 5 15 || 4 15 || 4 14 || 4 15 || 6 11 |
+X:0,373 ; Y:6,248 ; Angle : -3,539, Cases visitees sous influence : | 6 4 || 6 3 || 4 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 1 7 || 1 8 || 1 9 || 2 9 || 3 9 || 3 8 || 3 3 |
+X:7,633 ; Y:4,772 ; Angle : 1,965, Cases visitees sous influence : 
+X:0,022 ; Y:13,994 ; Angle : 1,451, Cases visitees sous influence : | 8 4 || 7 4 || 7 3 || 7 4 || 6 4 || 5 6 || 10 4 || 10 5 || 7 5 || 8 6 || 7 6 || 8 7 || 7 7 || 7 8 || 7 9 || 7 10 || 7 9 || 7 10 || 6 10 || 7 10 || 6 10 || 6 11 || 5 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 |
+X:8,897 ; Y:5,103 ; Angle : 10,731, Cases visitees sous influence : | 9 10 || 9 11 || 9 12 || 10 12 || 10 13 || 10 14 || 9 14 || 10 14 || 7 5 || 8 6 || 7 5 || 7 3 || 6 3 || 5 3 || 5 3 || 4 3 || 3 3 || 2 3 |
+X:11,971 ; Y:13,944 ; Angle : 17,255, Cases visitees sous influence : | 2 1 || 10 4 |
+X:6,761 ; Y:11,648 ; Angle : 13,691, Cases visitees sous influence : | 8 6 || 7 6 || 7 7 || 8 7 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 |
+X:5,602 ; Y:1,052 ; Angle : 6,915, Cases visitees sous influence : | 8 4 || 7 4 || 7 3 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 8 2 || 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 3 || 1 3 |
+X:9,520 ; Y:3,581 ; Angle : -0,097, Cases visitees sous influence : 
+X:9,019 ; Y:15,688 ; Angle : -1,480, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 |
+X:9,343 ; Y:15,428 ; Angle : 0,938, Cases visitees sous influence : 
+X:1,635 ; Y:12,482 ; Angle : 5,544, Cases visitees sous influence : | 7 3 || 7 4 || 7 3 || 6 3 || 5 3 || 4 3 || 0 3 |
+X:6,900 ; Y:6,573 ; Angle : 16,940, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 8 7 || 7 7 |
+X:8,864 ; Y:8,073 ; Angle : 6,404, Cases visitees sous influence : 
+X:4,041 ; Y:3,917 ; Angle : 15,215, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 || 10 6 || 11 6 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 |
+X:0,198 ; Y:13,774 ; Angle : 1,797, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 2 || 5 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 |
+X:9,385 ; Y:4,975 ; Angle : 3,089, Cases visitees sous influence : 
+X:6,314 ; Y:13,609 ; Angle : 14,380, Cases visitees sous influence : | 7 4 || 7 5 || 8 5 || 8 6 || 7 6 |
+X:0,976 ; Y:5,119 ; Angle : -1,814, Cases visitees sous influence : | 6 4 || 6 3 || 5 3 || 4 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 || 1 9 || 2 9 || 3 9 || 3 8 || 1 8 || 0 10 || 0 11 |
+X:1,671 ; Y:14,694 ; Angle : -8,322, Cases visitees sous influence : | 5 4 || 4 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 |
+X:9,056 ; Y:14,538 ; Angle : 14,387, Cases visitees sous influence : | 9 10 || 9 11 || 9 12 || 10 12 || 10 13 || 10 14 |
+X:0,255 ; Y:0,006 ; Angle : 5,311, Cases visitees sous influence : | 8 7 || 8 8 || 8 9 || 9 9 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 9 |
+X:8,973 ; Y:8,148 ; Angle : 1,261, Cases visitees sous influence : 
+X:4,273 ; Y:1,328 ; Angle : 16,332, Cases visitees sous influence : | 8 4 || 9 4 || 7 4 || 7 5 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 || 7 11 || 7 10 || 6 10 || 6 11 || 7 11 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 || 5 13 || 5 14 |
+X:7,270 ; Y:4,148 ; Angle : 3,221, Cases visitees sous influence : | 11 8 || 11 9 || 11 10 || 11 11 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 7 11 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 || 5 13 || 5 14 || 5 15 || 4 15 |
+X:7,302 ; Y:3,917 ; Angle : 13,083, Cases visitees sous influence : | 6 7 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 |
+X:0,306 ; Y:0,317 ; Angle : 4,880, Cases visitees sous influence : | 8 4 || 7 4 || 0 2 || 8 5 || 8 6 || 7 6 || 7 7 || 8 7 || 7 7 || 7 8 || 7 9 || 6 3 || 5 3 || 4 3 |
+X:7,672 ; Y:13,665 ; Angle : 13,846, Cases visitees sous influence : | 3 2 || 1 2 || 0 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 10 || 6 7 || 7 7 || 7 8 || 7 9 |
+X:8,331 ; Y:4,693 ; Angle : 1,196, Cases visitees sous influence : 
+X:10,329 ; Y:9,430 ; Angle : 4,088, Cases visitees sous influence : 
+X:0,933 ; Y:2,526 ; Angle : 3,700, Cases visitees sous influence : | 6 7 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 |
+X:7,884 ; Y:10,261 ; Angle : -7,931, Cases visitees sous influence : | 6 3 || 5 3 || 4 3 || 3 3 || 6 7 || 7 7 || 7 8 || 7 9 |
+X:4,761 ; Y:4,464 ; Angle : 3,765, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 8 6 || 7 6 || 7 7 |
+X:6,968 ; Y:0,345 ; Angle : 1,664, Cases visitees sous influence : | 8 4 || 7 4 || 3 2 || 6 2 || 6 3 || 5 3 || 6 2 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 || 1 9 || 2 9 || 3 9 || 1 8 || 1 8 |
+X:0,776 ; Y:15,910 ; Angle : 3,560, Cases visitees sous influence : | 7 3 || 6 3 || 1 3 || 0 3 |
+X:0,033 ; Y:15,770 ; Angle : 11,046, Cases visitees sous influence : | 7 3 || 5 3 || 8 2 || 7 3 || 7 2 || 6 2 || 6 3 || 6 2 || 6 3 || 5 3 || 5 3 || 4 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 10 || 0 11 || 0 12 |
+X:9,181 ; Y:1,876 ; Angle : 9,367, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:8,544 ; Y:8,481 ; Angle : -7,893, Cases visitees sous influence : 
+X:3,490 ; Y:0,194 ; Angle : 6,744, Cases visitees sous influence : | 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 1 4 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 || 1 9 || 2 9 |
+X:1,917 ; Y:12,065 ; Angle : 6,447, Cases visitees sous influence : | 7 4 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 |
+X:8,960 ; Y:8,837 ; Angle : 1,266, Cases visitees sous influence : 
+X:5,041 ; Y:12,656 ; Angle : 30,005, Cases visitees sous influence : | 7 4 || 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 || 5 13 || 5 14 || 5 15 || 5 14 || 5 15 || 4 15 |
+X:10,635 ; Y:7,253 ; Angle : 6,867, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:9,330 ; Y:10,316 ; Angle : 11,179, Cases visitees sous influence : 
+X:8,166 ; Y:8,039 ; Angle : 14,499, Cases visitees sous influence : | 7 5 || 8 6 || 7 6 || 7 7 || 8 7 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 7 11 || 7 10 || 6 10 || 6 11 |
+X:5,454 ; Y:14,623 ; Angle : 7,202, Cases visitees sous influence : 
+X:0,183 ; Y:15,267 ; Angle : 11,565, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 1 8 || 0 10 |
+X:7,276 ; Y:8,214 ; Angle : 1,754, Cases visitees sous influence : 
+X:3,450 ; Y:15,803 ; Angle : 3,335, Cases visitees sous influence : | 11 10 || 11 11 || 11 12 || 11 13 || 11 14 || 7 5 |
+X:9,186 ; Y:11,106 ; Angle : 10,936, Cases visitees sous influence : 
+X:6,876 ; Y:11,481 ; Angle : 11,130, Cases visitees sous influence : | 8 4 |
+X:9,989 ; Y:9,879 ; Angle : 11,428, Cases visitees sous influence : | 11 6 || 11 7 || 11 8 || 10 8 || 8 9 |
+X:5,529 ; Y:5,279 ; Angle : 11,634, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 |
+X:8,928 ; Y:7,788 ; Angle : 11,072, Cases visitees sous influence : | 9 3 || 7 6 || 7 7 || 8 7 || 7 8 |
+X:0,032 ; Y:8,110 ; Angle : 4,932, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 1 8 |
+X:0,366 ; Y:7,977 ; Angle : 1,770, Cases visitees sous influence : | 9 3 || 9 4 || 10 4 || 10 5 || 10 6 || 8 7 || 7 7 || 7 8 || 6 3 || 5 3 || 4 3 |
+X:9,979 ; Y:14,250 ; Angle : 1,123, Cases visitees sous influence : 
+X:1,858 ; Y:2,325 ; Angle : 3,480, Cases visitees sous influence : | 7 3 || 6 3 |
+X:1,407 ; Y:2,171 ; Angle : 4,660, Cases visitees sous influence : | 7 6 || 6 3 |
+X:5,020 ; Y:10,646 ; Angle : 29,857, Cases visitees sous influence : | 8 4 || 7 4 || 6 4 || 6 5 || 6 6 || 9 3 || 9 4 || 10 4 || 10 5 || 10 6 || 8 4 || 8 5 || 8 4 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:1,882 ; Y:7,075 ; Angle : 5,589, Cases visitees sous influence : | 2 1 || 2 1 || 7 5 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 3 || 6 3 || 5 3 || 5 4 || 5 3 || 4 3 || 4 4 || 4 3 || 0 3 || 1 3 || 0 3 |
+X:5,463 ; Y:13,247 ; Angle : 4,164, Cases visitees sous influence : | 7 3 || 8 4 || 7 4 || 6 4 || 6 5 || 6 6 || 10 4 || 10 5 || 10 6 || 11 6 || 10 6 || 11 6 || 10 6 || 11 6 || 11 6 || 8 7 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 |
+X:9,940 ; Y:10,847 ; Angle : 2,055, Cases visitees sous influence : 
+X:1,324 ; Y:8,761 ; Angle : 1,052, Cases visitees sous influence : | 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 7 11 || 7 11 || 7 10 || 6 10 || 6 11 || 5 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 |
+X:4,387 ; Y:0,874 ; Angle : 4,030, Cases visitees sous influence : | 7 3 |
+X:0,152 ; Y:5,264 ; Angle : 1,365, Cases visitees sous influence : 
+X:4,490 ; Y:1,670 ; Angle : -6,902, Cases visitees sous influence : 
+X:6,431 ; Y:6,142 ; Angle : 7,583, Cases visitees sous influence : | 7 5 || 7 6 || 7 7 || 8 7 || 7 3 || 3 3 |
+X:8,829 ; Y:4,848 ; Angle : 1,389, Cases visitees sous influence : 
+X:10,267 ; Y:9,407 ; Angle : -2,164, Cases visitees sous influence : 
+X:4,899 ; Y:15,896 ; Angle : 22,396, Cases visitees sous influence : | 5 2 || 4 3 || 7 5 || 8 5 || 7 6 || 8 6 || 7 6 || 7 7 || 7 8 || 7 8 |
+X:9,120 ; Y:11,868 ; Angle : 4,775, Cases visitees sous influence : | 9 4 || 10 5 || 11 5 |
+X:5,477 ; Y:15,988 ; Angle : 15,635, Cases visitees sous influence : 
+X:1,538 ; Y:10,035 ; Angle : -1,325, Cases visitees sous influence : | 8 2 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 |
+X:9,145 ; Y:14,977 ; Angle : 7,213, Cases visitees sous influence : | 7 4 || 6 4 || 6 5 || 6 6 || 9 9 || 9 10 || 9 11 || 9 12 || 10 12 || 8 9 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 8 7 || 7 7 || 7 8 |
+X:9,909 ; Y:15,971 ; Angle : 6,000, Cases visitees sous influence : | 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 8 7 |
+X:5,780 ; Y:10,188 ; Angle : 20,592, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 |
+X:0,228 ; Y:8,299 ; Angle : 3,869, Cases visitees sous influence : | 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 0 6 || 1 7 || 1 8 || 1 9 || 1 8 || 1 9 || 2 9 |
+X:10,547 ; Y:4,573 ; Angle : -0,607, Cases visitees sous influence : 
+X:0,402 ; Y:10,750 ; Angle : 1,805, Cases visitees sous influence : | 8 2 || 7 3 || 6 3 || 5 3 || 3 3 || 1 3 |
+X:8,473 ; Y:4,606 ; Angle : 10,098, Cases visitees sous influence : 
+X:0,678 ; Y:0,061 ; Angle : 6,427, Cases visitees sous influence : | 11 6 || 10 6 || 10 7 || 11 7 || 11 8 || 11 9 || 7 9 || 7 10 || 7 9 || 7 10 || 6 10 || 4 3 |
+X:5,017 ; Y:12,540 ; Angle : 8,151, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 8 2 |
+X:0,392 ; Y:10,194 ; Angle : 5,238, Cases visitees sous influence : | 11 6 || 10 6 || 11 6 || 10 6 || 10 7 || 11 7 || 7 4 || 7 3 || 6 3 || 5 3 || 1 3 || 0 3 || 1 3 || 0 3 |
+X:5,790 ; Y:15,969 ; Angle : 18,884, Cases visitees sous influence : | 8 4 || 7 5 || 7 6 || 7 7 || 7 8 || 7 9 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 || 5 13 || 6 13 || 5 13 || 5 14 || 5 15 || 5 14 || 5 15 || 4 14 || 5 15 || 4 14 || 5 14 || 5 15 || 4 15 |
+X:3,002 ; Y:15,173 ; Angle : 14,241, Cases visitees sous influence : | 5 3 || 4 3 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 8 7 || 7 7 || 7 8 || 7 9 || 7 10 |
+X:0,657 ; Y:12,613 ; Angle : 5,298, Cases visitees sous influence : | 9 10 || 9 11 || 9 12 || 10 12 || 10 13 || 10 14 || 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 0 8 |
+X:0,453 ; Y:0,484 ; Angle : 4,889, Cases visitees sous influence : | 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 || 5 13 || 5 14 || 5 15 || 4 15 || 4 14 || 4 15 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 6 3 || 7 3 || 6 3 || 5 3 |
+X:8,975 ; Y:8,057 ; Angle : 17,008, Cases visitees sous influence : 
+X:0,210 ; Y:13,617 ; Angle : 1,326, Cases visitees sous influence : | 8 6 || 7 5 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 8 |
+X:5,342 ; Y:13,996 ; Angle : 19,882, Cases visitees sous influence : | 9 4 || 10 5 || 7 5 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 7 11 || 6 11 || 7 11 || 6 11 || 7 11 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 || 5 13 || 6 13 || 5 13 || 5 14 || 6 14 || 5 14 || 5 15 |
+X:0,464 ; Y:6,238 ; Angle : 4,627, Cases visitees sous influence : | 5 4 || 4 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 0 6 || 0 10 || 0 11 || 0 12 |
+X:7,605 ; Y:3,757 ; Angle : 2,403, Cases visitees sous influence : 
+X:4,047 ; Y:4,296 ; Angle : 1,644, Cases visitees sous influence : | 7 4 || 7 5 || 8 6 || 7 6 || 7 7 || 8 7 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 || 5 13 || 5 14 || 5 15 || 4 15 || 4 2 |
+X:4,290 ; Y:3,773 ; Angle : 1,192, Cases visitees sous influence : | 7 3 || 6 3 || 4 2 |
+X:1,945 ; Y:6,571 ; Angle : 5,270, Cases visitees sous influence : | 8 4 || 7 4 || 6 4 || 6 5 || 6 6 || 6 2 || 6 3 || 5 3 || 5 2 || 5 3 || 4 3 || 3 3 || 7 7 || 6 7 || 7 7 || 7 8 || 7 9 || 5 4 || 4 3 || 3 3 || 2 3 || 1 3 || 1 4 || 1 3 || 1 4 || 1 3 || 1 4 || 0 4 || 0 5 || 1 8 || 0 10 |
+X:10,212 ; Y:6,299 ; Angle : 17,646, Cases visitees sous influence : | 9 3 |
+X:5,055 ; Y:10,855 ; Angle : -1,664, Cases visitees sous influence : 
+X:11,200 ; Y:6,845 ; Angle : 17,301, Cases visitees sous influence : | 11 6 || 10 6 || 11 6 || 10 7 || 11 7 || 11 8 || 10 8 |
+X:0,466 ; Y:0,250 ; Angle : 2,873, Cases visitees sous influence : | 6 3 || 5 3 |
+X:11,986 ; Y:4,180 ; Angle : 6,370, Cases visitees sous influence : 
+X:5,754 ; Y:15,979 ; Angle : 15,950, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 8 6 || 7 6 || 7 7 || 7 8 |
+X:0,261 ; Y:1,411 ; Angle : 1,351, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 4 3 |
+X:3,719 ; Y:15,898 ; Angle : 2,415, Cases visitees sous influence : 
+X:5,632 ; Y:12,856 ; Angle : 23,259, Cases visitees sous influence : | 8 4 || 7 4 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 8 6 || 7 6 || 7 7 || 8 7 || 7 7 |
+X:0,081 ; Y:1,943 ; Angle : 4,352, Cases visitees sous influence : | 7 5 || 8 5 || 8 6 || 7 6 || 8 7 || 7 7 || 7 8 || 7 9 || 5 3 || 4 3 |
+X:1,154 ; Y:15,895 ; Angle : 3,378, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 || 0 3 |
+X:5,876 ; Y:10,434 ; Angle : 20,786, Cases visitees sous influence : | 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 || 5 13 || 5 14 || 5 15 |
+X:0,770 ; Y:14,074 ; Angle : 0,936, Cases visitees sous influence : | 9 3 || 9 4 || 10 4 || 10 5 || 7 3 || 6 3 || 5 3 || 5 4 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 0 7 || 1 7 || 0 3 |
+X:0,616 ; Y:6,580 ; Angle : -1,652, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 || 10 6 || 11 6 || 10 6 || 11 6 || 10 6 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 6 5 || 4 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 || 0 8 || 1 8 || 1 9 || 2 9 || 3 9 || 3 8 || 1 8 || 1 8 |
+X:8,616 ; Y:4,672 ; Angle : 1,056, Cases visitees sous influence : 
+X:1,391 ; Y:7,957 ; Angle : 0,466, Cases visitees sous influence : 
+X:0,952 ; Y:0,032 ; Angle : 6,623, Cases visitees sous influence : | 4 3 |
+X:0,169 ; Y:12,690 ; Angle : 10,918, Cases visitees sous influence : | 8 4 || 7 3 || 6 4 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 1 8 || 0 10 |
+X:4,084 ; Y:4,917 ; Angle : 3,320, Cases visitees sous influence : 
+X:11,734 ; Y:10,262 ; Angle : 1,373, Cases visitees sous influence : | 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 4 || 7 3 || 7 4 || 7 3 |
+X:5,070 ; Y:11,811 ; Angle : 4,416, Cases visitees sous influence : 
+X:4,263 ; Y:15,325 ; Angle : 2,771, Cases visitees sous influence : 
+X:9,914 ; Y:11,965 ; Angle : 4,361, Cases visitees sous influence : | 8 2 |
+X:7,730 ; Y:9,611 ; Angle : 13,938, Cases visitees sous influence : 
+X:5,098 ; Y:12,270 ; Angle : -1,084, Cases visitees sous influence : 
+X:7,793 ; Y:3,646 ; Angle : 2,673, Cases visitees sous influence : 
+X:5,571 ; Y:15,904 ; Angle : 41,223, Cases visitees sous influence : | 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 |
+X:5,364 ; Y:12,573 ; Angle : 22,406, Cases visitees sous influence : | 7 4 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:4,240 ; Y:3,733 ; Angle : 17,949, Cases visitees sous influence : | 7 4 || 8 4 || 7 4 || 7 5 || 8 5 |
+X:7,064 ; Y:4,200 ; Angle : 2,254, Cases visitees sous influence : 
+X:0,200 ; Y:14,664 ; Angle : 2,642, Cases visitees sous influence : | 8 4 || 7 4 || 8 5 || 5 4 || 5 4 || 4 4 || 4 3 || 3 3 || 2 3 || 1 3 || 1 4 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 |
+X:10,918 ; Y:3,097 ; Angle : -1,743, Cases visitees sous influence : 
+X:5,459 ; Y:12,880 ; Angle : 16,545, Cases visitees sous influence : 
+X:1,758 ; Y:12,606 ; Angle : 8,539, Cases visitees sous influence : | 8 4 || 7 4 || 6 4 || 6 5 || 6 6 || 9 9 || 9 10 || 9 11 || 9 12 || 9 11 || 9 12 || 10 12 || 10 13 || 7 5 || 6 4 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 |
+X:0,359 ; Y:10,582 ; Angle : 3,617, Cases visitees sous influence : | 4 3 || 3 3 |
+X:11,658 ; Y:10,075 ; Angle : 10,516, Cases visitees sous influence : | 9 3 || 9 3 || 9 4 || 10 4 || 10 5 |
+X:1,301 ; Y:0,932 ; Angle : 5,470, Cases visitees sous influence : | 7 4 || 6 4 || 6 5 || 7 6 || 9 3 || 9 4 || 10 4 || 10 5 || 7 9 || 7 10 || 6 10 || 6 11 || 6 3 || 5 3 || 4 3 |
+X:6,342 ; Y:13,462 ; Angle : 36,729, Cases visitees sous influence : | 9 4 || 10 5 || 10 6 || 11 6 || 10 6 || 11 6 || 7 9 || 7 10 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 |
+X:0,021 ; Y:7,032 ; Angle : -4,790, Cases visitees sous influence : 
+X:7,546 ; Y:3,927 ; Angle : 2,222, Cases visitees sous influence : 
+X:0,035 ; Y:5,062 ; Angle : 11,027, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 || 4 3 || 3 3 |
+X:0,037 ; Y:15,401 ; Angle : 4,758, Cases visitees sous influence : | 11 10 || 11 11 || 11 12 || 11 13 || 11 14 || 11 15 || 7 3 || 6 3 || 5 3 || 5 4 || 5 3 || 5 4 || 5 3 || 4 3 || 4 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 1 6 || 0 6 || 0 7 || 1 7 || 0 7 || 1 7 || 1 8 || 0 8 || 1 3 || 0 3 |
+X:11,189 ; Y:12,887 ; Angle : 19,747, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:1,463 ; Y:15,983 ; Angle : 0,049, Cases visitees sous influence : | 5 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 10 || 0 11 |
+X:8,051 ; Y:3,917 ; Angle : 1,498, Cases visitees sous influence : 
+X:11,968 ; Y:14,482 ; Angle : 1,826, Cases visitees sous influence : 
+X:1,299 ; Y:0,528 ; Angle : 6,806, Cases visitees sous influence : | 8 4 || 7 4 || 9 3 || 5 3 || 4 3 |
+X:10,837 ; Y:15,984 ; Angle : 15,605, Cases visitees sous influence : | 8 4 || 7 4 || 3 2 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 7 5 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 8 7 || 7 7 || 7 8 |
+X:9,200 ; Y:3,042 ; Angle : 20,851, Cases visitees sous influence : | 8 4 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 8 7 || 7 7 |
+X:7,622 ; Y:10,114 ; Angle : 17,439, Cases visitees sous influence : | 9 9 || 9 10 || 9 11 || 9 12 || 10 12 || 10 13 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 7 9 || 7 10 || 6 10 |
+X:9,125 ; Y:13,457 ; Angle : 4,968, Cases visitees sous influence : 
+X:6,617 ; Y:14,824 ; Angle : 22,538, Cases visitees sous influence : | 7 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 |
+X:0,138 ; Y:6,275 ; Angle : 1,339, Cases visitees sous influence : 
+X:5,345 ; Y:15,221 ; Angle : 8,729, Cases visitees sous influence : | 7 4 || 7 5 || 7 6 || 7 6 || 7 7 || 7 8 || 8 8 || 7 8 || 8 9 |
+X:9,359 ; Y:12,814 ; Angle : 7,652, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 8 6 || 7 6 || 7 7 |
+X:9,939 ; Y:9,349 ; Angle : 19,760, Cases visitees sous influence : | 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 |
+X:10,742 ; Y:10,961 ; Angle : 10,312, Cases visitees sous influence : | 8 4 || 8 4 || 7 5 || 7 4 || 7 5 || 6 6 || 7 6 || 10 4 || 10 5 || 10 6 || 11 6 || 10 6 || 11 6 || 10 6 || 11 6 |
+X:11,349 ; Y:4,354 ; Angle : -0,586, Cases visitees sous influence : 
+X:0,899 ; Y:3,069 ; Angle : 3,748, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 8 2 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 7 3 || 6 3 |
+X:10,835 ; Y:2,610 ; Angle : 20,527, Cases visitees sous influence : | 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 |
+X:7,246 ; Y:3,153 ; Angle : 7,297, Cases visitees sous influence : | 7 3 || 6 3 |
+X:0,632 ; Y:6,696 ; Angle : 2,509, Cases visitees sous influence : | 7 3 || 6 3 || 6 4 || 5 4 || 5 3 || 5 4 || 4 4 || 4 3 || 3 3 || 2 3 || 1 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 || 1 9 || 0 3 |
+X:10,815 ; Y:11,619 ; Angle : 7,582, Cases visitees sous influence : 
+X:4,035 ; Y:15,272 ; Angle : 2,584, Cases visitees sous influence : 
+X:1,786 ; Y:2,191 ; Angle : 7,809, Cases visitees sous influence : | 5 3 || 4 3 |
+X:0,392 ; Y:9,324 ; Angle : 4,382, Cases visitees sous influence : | 10 8 || 10 9 || 9 9 || 9 10 || 9 11 || 6 4 || 6 3 || 5 3 || 4 3 || 3 3 |
+X:0,190 ; Y:11,092 ; Angle : 2,810, Cases visitees sous influence : | 8 4 || 7 4 || 3 3 || 1 3 |
+X:5,465 ; Y:6,482 ; Angle : 22,178, Cases visitees sous influence : | 8 4 || 7 4 || 4 3 || 3 3 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:9,991 ; Y:0,797 ; Angle : 7,522, Cases visitees sous influence : | 9 10 || 9 11 || 9 12 || 10 12 || 10 13 || 10 14 || 8 9 || 7 9 || 7 10 || 6 10 |
+X:5,779 ; Y:11,790 ; Angle : 18,108, Cases visitees sous influence : 
+X:5,981 ; Y:2,632 ; Angle : -3,488, Cases visitees sous influence : | 7 3 |
+X:3,892 ; Y:1,033 ; Angle : 0,219, Cases visitees sous influence : | 7 5 || 8 2 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 1 8 |
+X:9,699 ; Y:13,009 ; Angle : 24,400, Cases visitees sous influence : | 8 7 |
+X:7,343 ; Y:10,290 ; Angle : 2,106, Cases visitees sous influence : 
+X:7,085 ; Y:3,089 ; Angle : 7,951, Cases visitees sous influence : | 6 4 || 6 3 || 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 1 4 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 || 1 9 || 2 9 || 3 9 || 3 8 || 1 8 || 1 3 |
+X:10,923 ; Y:14,200 ; Angle : 0,945, Cases visitees sous influence : 
+X:11,974 ; Y:14,446 ; Angle : 7,666, Cases visitees sous influence : 
+X:11,973 ; Y:14,258 ; Angle : 4,969, Cases visitees sous influence : 
+X:4,157 ; Y:4,169 ; Angle : 5,066, Cases visitees sous influence : | 11 8 || 11 9 || 11 10 || 11 11 || 7 5 |
+X:0,003 ; Y:2,893 ; Angle : 1,719, Cases visitees sous influence : | 8 4 || 7 4 || 7 3 || 6 3 || 5 3 |
+X:0,549 ; Y:15,977 ; Angle : 1,252, Cases visitees sous influence : | 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 1 6 || 0 6 || 0 7 || 1 7 || 0 3 |
+X:8,115 ; Y:4,722 ; Angle : 11,146, Cases visitees sous influence : | 8 4 || 7 4 || 7 3 || 7 4 || 6 4 || 6 3 || 6 4 || 6 6 || 10 4 || 10 5 || 10 6 || 11 6 || 10 6 || 11 6 || 10 6 || 11 6 || 10 6 || 11 6 || 10 6 || 11 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 |
+X:3,404 ; Y:9,037 ; Angle : -2,268, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 || 7 3 || 6 3 || 5 3 || 4 3 || 0 3 |
+X:5,824 ; Y:2,591 ; Angle : 2,359, Cases visitees sous influence : | 8 4 || 7 4 || 6 4 || 6 5 || 6 6 || 7 5 || 7 6 || 6 4 |
+X:4,013 ; Y:4,979 ; Angle : 17,474, Cases visitees sous influence : | 8 6 || 7 6 || 7 7 || 8 7 || 7 7 || 7 8 || 7 9 || 7 10 |
+X:11,753 ; Y:5,640 ; Angle : 19,446, Cases visitees sous influence : | 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 7 11 || 6 11 || 6 10 || 6 11 || 7 11 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 || 6 12 || 5 13 || 6 13 || 5 13 || 5 14 || 5 15 |
+X:1,054 ; Y:9,290 ; Angle : 1,407, Cases visitees sous influence : | 8 9 || 5 3 || 4 3 || 3 3 |
+X:9,217 ; Y:15,024 ; Angle : 11,727, Cases visitees sous influence : 
+X:6,606 ; Y:0,603 ; Angle : 5,871, Cases visitees sous influence : | 8 4 || 7 4 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:8,934 ; Y:5,701 ; Angle : 10,637, Cases visitees sous influence : 
+X:10,619 ; Y:11,347 ; Angle : 27,610, Cases visitees sous influence : | 6 7 || 7 7 || 7 8 || 7 9 |
+X:5,073 ; Y:11,632 ; Angle : -5,108, Cases visitees sous influence : 
+X:3,678 ; Y:9,718 ; Angle : -3,982, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 7 5 || 7 4 || 8 4 || 8 5 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 1 4 || 1 3 || 0 4 || 0 5 || 0 6 || 0 7 || 0 3 |
+X:0,655 ; Y:11,304 ; Angle : -0,338, Cases visitees sous influence : | 6 3 || 5 3 || 7 6 || 7 7 || 6 7 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 7 11 || 6 11 || 6 12 || 6 13 || 5 13 || 5 14 || 5 15 || 4 15 || 8 2 || 8 2 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 |
+X:7,347 ; Y:12,313 ; Angle : 14,661, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 |
+X:1,031 ; Y:15,978 ; Angle : -3,071, Cases visitees sous influence : | 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 |
+X:11,197 ; Y:8,897 ; Angle : -0,708, Cases visitees sous influence : 
+X:2,085 ; Y:9,118 ; Angle : 9,182, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 || 7 3 || 6 3 || 5 3 || 5 4 || 5 3 || 4 3 || 4 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 1 8 || 0 10 || 0 11 |
+X:2,792 ; Y:0,027 ; Angle : 2,851, Cases visitees sous influence : | 7 3 || 6 3 |
+X:11,180 ; Y:13,349 ; Angle : 27,421, Cases visitees sous influence : 
+X:2,839 ; Y:9,689 ; Angle : 3,237, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 || 1 3 || 0 3 || 1 3 || 0 3 |
+X:4,510 ; Y:0,886 ; Angle : 6,476, Cases visitees sous influence : | 8 4 || 7 4 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 1 10 || 0 10 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 9 || 7 10 || 6 10 || 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 0 7 || 1 7 || 1 8 || 1 9 || 2 9 || 0 3 |
+X:9,577 ; Y:4,233 ; Angle : 15,030, Cases visitees sous influence : | 11 6 || 10 6 || 11 6 || 10 6 || 11 7 || 10 7 || 11 7 || 11 8 |
+X:10,910 ; Y:2,129 ; Angle : 11,445, Cases visitees sous influence : | 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 7 9 || 7 10 || 6 10 || 6 11 || 7 11 || 6 11 || 7 11 || 6 11 || 7 11 || 6 11 || 7 11 || 6 11 || 7 11 || 6 11 || 7 11 || 6 11 || 7 11 || 7 10 || 6 10 || 6 11 || 7 11 || 6 10 |
+X:11,860 ; Y:4,586 ; Angle : 0,309, Cases visitees sous influence : 
+X:5,229 ; Y:0,186 ; Angle : 8,980, Cases visitees sous influence : | 8 4 || 7 4 || 7 6 || 7 7 || 7 7 || 7 8 || 8 8 || 8 9 |
+X:0,441 ; Y:10,366 ; Angle : -1,410, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 |
+X:11,960 ; Y:14,544 ; Angle : 18,775, Cases visitees sous influence : | 9 4 |
+X:11,960 ; Y:11,569 ; Angle : 5,913, Cases visitees sous influence : | 7 3 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:8,139 ; Y:3,006 ; Angle : 3,229, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 |
+X:7,239 ; Y:6,267 ; Angle : 23,253, Cases visitees sous influence : | 8 4 |
+X:4,861 ; Y:15,992 ; Angle : 25,246, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:0,076 ; Y:1,729 ; Angle : 1,696, Cases visitees sous influence : | 4 3 || 3 3 |
+X:11,568 ; Y:10,465 ; Angle : 16,626, Cases visitees sous influence : | 7 3 || 7 4 || 9 3 || 9 4 || 10 4 || 9 4 || 10 4 || 10 5 |
+X:0,519 ; Y:8,102 ; Angle : 8,083, Cases visitees sous influence : | 7 4 || 7 5 || 7 6 || 7 6 || 8 8 || 8 9 |
+X:4,701 ; Y:0,273 ; Angle : 6,869, Cases visitees sous influence : | 7 4 || 7 3 || 6 3 || 5 3 || 5 3 |
+X:0,278 ; Y:3,597 ; Angle : -1,185, Cases visitees sous influence : | 7 4 || 7 5 || 8 5 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 || 1 3 || 0 3 |
+X:0,485 ; Y:12,321 ; Angle : 4,623, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 || 5 4 || 4 4 || 4 3 || 0 3 |
+X:6,892 ; Y:0,925 ; Angle : 2,021, Cases visitees sous influence : | 6 4 || 6 3 || 5 3 || 5 4 || 5 3 || 4 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 1 3 || 0 3 |
+X:11,224 ; Y:15,975 ; Angle : 3,343, Cases visitees sous influence : | 9 4 || 10 5 || 10 6 |
+X:3,942 ; Y:2,020 ; Angle : 11,198, Cases visitees sous influence : 
+X:5,667 ; Y:5,720 ; Angle : 17,256, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 |
+X:5,006 ; Y:11,668 ; Angle : 26,750, Cases visitees sous influence : | 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 |
+X:0,830 ; Y:0,051 ; Angle : 3,128, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 || 10 6 || 11 6 || 11 5 || 11 6 || 10 6 || 11 6 || 11 5 || 7 3 || 6 3 || 5 3 |
+X:0,684 ; Y:1,684 ; Angle : 5,738, Cases visitees sous influence : | 8 4 || 7 4 || 7 3 || 6 3 || 5 3 |
+X:11,557 ; Y:11,990 ; Angle : 8,121, Cases visitees sous influence : 
+X:10,861 ; Y:4,672 ; Angle : 11,212, Cases visitees sous influence : | 8 4 || 7 4 || 7 3 || 7 4 || 6 2 || 5 2 || 5 3 || 5 2 || 5 3 || 4 3 || 3 3 || 8 5 || 8 6 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 |
+X:5,490 ; Y:9,475 ; Angle : 11,232, Cases visitees sous influence : | 8 4 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 7 5 || 8 5 || 8 6 || 7 6 || 8 6 || 8 7 || 7 7 || 7 8 || 7 9 || 7 10 |
+X:0,084 ; Y:12,965 ; Angle : 1,760, Cases visitees sous influence : | 7 4 || 6 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 || 7 4 || 7 3 || 3 3 |
+X:9,761 ; Y:3,557 ; Angle : 14,285, Cases visitees sous influence : | 9 3 || 9 4 || 10 4 || 10 5 |
+X:8,742 ; Y:4,993 ; Angle : 4,188, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 || 4 3 || 4 3 |
+X:3,999 ; Y:15,601 ; Angle : 47,490, Cases visitees sous influence : | 11 8 || 11 9 || 11 10 || 11 11 || 7 5 || 8 6 || 7 6 || 8 7 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 7 11 || 6 11 || 7 11 || 6 11 |
+X:1,702 ; Y:7,194 ; Angle : 4,240, Cases visitees sous influence : | 7 3 || 7 4 || 6 4 || 7 5 || 6 6 || 6 6 || 5 6 || 9 3 || 9 4 || 10 4 || 10 5 || 6 2 || 6 3 || 5 3 || 4 3 || 3 3 || 3 2 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 || 1 9 || 2 9 || 0 3 |
+X:5,955 ; Y:11,214 ; Angle : 1,517, Cases visitees sous influence : | 8 4 || 7 3 || 7 4 || 7 5 || 8 5 || 7 5 || 8 6 || 7 6 || 7 7 |
+X:9,589 ; Y:1,810 ; Angle : 14,338, Cases visitees sous influence : 
+X:3,967 ; Y:15,790 ; Angle : 41,321, Cases visitees sous influence : | 7 4 || 6 4 || 6 5 || 6 6 || 5 6 || 9 3 || 9 4 || 10 4 || 10 5 || 10 6 || 11 6 || 10 6 || 11 6 || 11 6 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 8 7 || 7 7 || 7 6 || 8 7 |
+X:1,455 ; Y:6,683 ; Angle : 2,559, Cases visitees sous influence : | 8 2 || 7 3 || 6 3 || 6 2 || 6 3 || 5 3 || 0 3 |
+X:11,151 ; Y:13,683 ; Angle : -1,675, Cases visitees sous influence : 
+X:6,869 ; Y:1,997 ; Angle : 8,234, Cases visitees sous influence : | 4 3 || 3 3 |
+X:5,351 ; Y:4,024 ; Angle : 1,113, Cases visitees sous influence : | 7 3 || 6 3 || 4 2 |
+X:9,417 ; Y:13,408 ; Angle : 11,360, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 |
+X:11,911 ; Y:12,386 ; Angle : -1,887, Cases visitees sous influence : 
+X:3,916 ; Y:15,001 ; Angle : 25,137, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:0,157 ; Y:12,415 ; Angle : 7,815, Cases visitees sous influence : | 11 11 || 11 12 || 11 13 || 11 14 || 11 15 || 11 14 || 11 15 || 8 2 || 7 3 || 6 3 || 5 3 || 0 3 || 1 8 |
+X:5,496 ; Y:12,095 ; Angle : 10,599, Cases visitees sous influence : 
+X:9,154 ; Y:15,023 ; Angle : 17,715, Cases visitees sous influence : | 10 4 || 10 5 || 10 6 |
+X:5,320 ; Y:15,879 ; Angle : 22,086, Cases visitees sous influence : | 7 4 || 7 5 || 7 6 || 7 6 || 8 8 || 7 8 |
+X:5,985 ; Y:15,266 ; Angle : 7,731, Cases visitees sous influence : 
+X:4,749 ; Y:0,710 ; Angle : 13,328, Cases visitees sous influence : | 9 3 || 9 4 || 10 4 || 10 5 || 10 6 || 5 4 || 4 4 || 4 3 || 5 3 || 4 3 |
+X:7,998 ; Y:13,987 ; Angle : 9,555, Cases visitees sous influence : | 9 11 || 9 12 || 10 12 || 10 13 || 10 14 |
+X:2,264 ; Y:0,813 ; Angle : 6,861, Cases visitees sous influence : | 11 8 || 11 9 || 11 10 || 11 11 || 7 9 || 7 10 || 6 10 |
+X:0,479 ; Y:4,716 ; Angle : 5,003, Cases visitees sous influence : | 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 || 1 9 || 2 9 || 3 9 || 3 8 || 0 3 |
+X:11,803 ; Y:13,407 ; Angle : -4,222, Cases visitees sous influence : | 8 4 || 7 4 || 4 2 || 7 7 || 7 4 || 6 7 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 || 6 14 || 6 13 || 6 14 || 6 13 || 6 14 || 5 14 || 5 15 || 4 15 |
+X:11,975 ; Y:8,325 ; Angle : 10,878, Cases visitees sous influence : | 8 4 || 7 4 |
+X:0,412 ; Y:3,061 ; Angle : 4,716, Cases visitees sous influence : | 7 4 || 7 3 || 6 3 || 6 4 || 6 3 || 5 3 || 4 3 || 0 3 |
+X:9,474 ; Y:13,968 ; Angle : 5,591, Cases visitees sous influence : | 7 4 || 8 4 || 8 5 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 |
+X:11,884 ; Y:9,559 ; Angle : 10,700, Cases visitees sous influence : 
+X:7,504 ; Y:4,307 ; Angle : 2,005, Cases visitees sous influence : 
+X:8,945 ; Y:7,070 ; Angle : 14,433, Cases visitees sous influence : | 9 4 || 10 5 |
+X:7,385 ; Y:5,974 ; Angle : 1,985, Cases visitees sous influence : | 7 8 || 7 8 || 7 9 || 7 9 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 || 5 13 || 5 14 || 5 15 || 8 2 || 7 3 || 6 3 || 5 3 || 4 3 |
+X:9,263 ; Y:2,646 ; Angle : 14,275, Cases visitees sous influence : | 11 10 || 11 11 || 11 12 || 11 13 || 11 14 || 8 4 || 7 4 || 7 5 || 8 4 || 8 5 |
+X:10,326 ; Y:3,523 ; Angle : 1,116, Cases visitees sous influence : | 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 9 |
+X:1,128 ; Y:4,954 ; Angle : 1,367, Cases visitees sous influence : | 11 10 || 11 11 || 11 12 || 11 13 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 |
+X:10,612 ; Y:15,804 ; Angle : 6,179, Cases visitees sous influence : 
+X:5,575 ; Y:0,090 ; Angle : 0,033, Cases visitees sous influence : | 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 || 1 9 || 2 9 || 3 9 || 3 8 || 0 10 || 0 11 || 0 12 |
+X:0,771 ; Y:6,869 ; Angle : 4,307, Cases visitees sous influence : | 7 3 || 7 4 || 6 4 || 7 5 || 6 6 || 5 3 || 4 3 || 6 7 || 7 8 || 7 9 || 7 4 || 7 3 || 6 3 || 5 3 || 4 3 || 4 4 || 4 3 || 3 3 |
+X:3,672 ; Y:2,048 ; Angle : 7,094, Cases visitees sous influence : | 11 10 || 11 11 || 10 11 || 11 11 || 10 11 || 9 11 || 9 12 || 10 12 || 10 13 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 4 || 6 3 || 5 3 || 5 4 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 || 1 9 || 2 9 || 3 9 |
+X:1,724 ; Y:4,092 ; Angle : 2,405, Cases visitees sous influence : 
+X:10,825 ; Y:8,028 ; Angle : 4,932, Cases visitees sous influence : 
+X:11,851 ; Y:4,057 ; Angle : -0,192, Cases visitees sous influence : 
+X:6,295 ; Y:14,171 ; Angle : 27,461, Cases visitees sous influence : | 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:0,649 ; Y:12,495 ; Angle : 5,045, Cases visitees sous influence : | 7 4 || 6 4 || 6 5 || 10 4 || 10 5 || 10 6 || 11 6 || 10 6 || 11 6 || 10 6 || 11 6 || 10 6 || 11 6 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 6 4 || 6 3 || 6 4 || 5 3 || 4 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 1 8 |
+X:1,468 ; Y:3,427 ; Angle : 0,570, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 8 6 || 7 6 || 7 7 || 7 8 || 4 3 || 3 3 |
+X:5,063 ; Y:11,073 ; Angle : 1,203, Cases visitees sous influence : 
+X:9,018 ; Y:9,118 ; Angle : 2,857, Cases visitees sous influence : 
+X:0,439 ; Y:8,905 ; Angle : 4,724, Cases visitees sous influence : | 8 4 || 7 4 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 8 2 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 |
+X:9,992 ; Y:1,188 ; Angle : 20,200, Cases visitees sous influence : | 7 5 || 7 5 || 7 5 |
+X:6,279 ; Y:13,781 ; Angle : 21,981, Cases visitees sous influence : | 7 4 || 7 5 || 8 5 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:5,196 ; Y:11,123 ; Angle : 11,307, Cases visitees sous influence : | 7 7 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 7 5 || 8 5 || 8 6 || 7 6 || 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 8 2 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 |
+X:2,077 ; Y:6,041 ; Angle : 6,440, Cases visitees sous influence : | 5 4 || 4 3 || 3 3 || 2 3 || 1 3 || 1 4 || 1 3 || 0 3 || 0 4 || 0 5 || 1 8 || 0 10 || 0 11 |
+X:1,690 ; Y:0,061 ; Angle : 6,651, Cases visitees sous influence : | 10 9 || 9 9 || 9 10 || 9 11 || 10 11 || 9 11 || 8 2 || 7 2 || 7 3 || 6 3 || 6 2 || 6 3 || 5 3 || 4 3 || 3 3 || 4 3 || 6 3 || 6 3 || 5 3 || 4 3 |
+X:5,269 ; Y:12,872 ; Angle : 35,368, Cases visitees sous influence : | 8 4 || 7 4 || 6 4 || 6 5 || 6 6 || 7 6 || 4 2 || 4 3 || 3 3 || 2 3 || 2 2 || 2 3 || 1 2 || 8 5 || 8 6 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 |
+X:10,043 ; Y:9,981 ; Angle : 7,952, Cases visitees sous influence : 
+X:10,040 ; Y:12,902 ; Angle : 14,724, Cases visitees sous influence : | 8 4 || 7 4 |
+X:10,804 ; Y:4,814 ; Angle : 4,440, Cases visitees sous influence : 
+X:8,020 ; Y:3,964 ; Angle : 3,624, Cases visitees sous influence : 
+X:7,835 ; Y:3,417 ; Angle : 5,978, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 8 7 || 7 7 || 8 7 || 7 7 || 5 4 || 1 3 || 0 3 || 1 3 || 0 3 |
+X:5,420 ; Y:13,286 ; Angle : 24,479, Cases visitees sous influence : | 7 5 || 7 6 || 7 7 || 7 8 |
+X:7,887 ; Y:5,331 ; Angle : 21,416, Cases visitees sous influence : | 8 6 || 7 6 || 7 7 || 8 7 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 |
+X:8,746 ; Y:3,983 ; Angle : 0,549, Cases visitees sous influence : 
+X:9,519 ; Y:1,705 ; Angle : -1,160, Cases visitees sous influence : 
+X:1,278 ; Y:15,921 ; Angle : -0,102, Cases visitees sous influence : | 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 5 4 || 4 4 || 4 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 1 4 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 0 7 || 0 3 |
+X:3,352 ; Y:15,152 ; Angle : 15,938, Cases visitees sous influence : | 6 7 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 |
+X:4,750 ; Y:1,013 ; Angle : 5,658, Cases visitees sous influence : | 7 4 || 7 3 || 7 4 || 7 3 || 6 3 || 6 3 || 5 3 || 4 3 || 6 3 || 5 3 |
+X:5,326 ; Y:15,990 ; Angle : 0,086, Cases visitees sous influence : | 8 6 || 7 6 || 7 7 || 8 7 || 7 7 || 7 8 || 7 9 || 7 9 || 7 9 || 7 10 || 6 10 || 6 11 || 7 11 || 7 10 || 6 10 || 6 11 || 6 13 |
+X:3,170 ; Y:0,445 ; Angle : 6,474, Cases visitees sous influence : | 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 5 3 || 5 3 || 4 3 |
+X:5,318 ; Y:2,807 ; Angle : 9,857, Cases visitees sous influence : 
+X:9,261 ; Y:13,324 ; Angle : 5,277, Cases visitees sous influence : | 7 4 || 6 4 || 6 5 || 9 9 || 9 10 || 9 11 || 9 12 || 10 12 || 10 13 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:9,052 ; Y:13,715 ; Angle : 14,104, Cases visitees sous influence : | 8 4 || 7 4 || 6 4 || 7 4 || 7 5 || 6 6 || 7 6 || 6 6 || 10 4 || 10 5 || 10 6 || 11 6 || 10 6 || 11 6 || 10 6 || 11 6 || 10 6 || 11 6 |
+X:10,809 ; Y:15,886 ; Angle : 15,994, Cases visitees sous influence : 
+X:8,041 ; Y:5,210 ; Angle : 8,729, Cases visitees sous influence : | 8 2 || 7 3 || 6 3 || 5 3 || 4 3 |
+X:11,768 ; Y:14,284 ; Angle : 13,109, Cases visitees sous influence : | 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 7 11 || 7 10 || 6 10 || 6 11 |
+X:1,539 ; Y:10,512 ; Angle : 0,620, Cases visitees sous influence : | 8 4 || 7 4 || 8 4 || 7 4 || 7 4 || 7 3 || 6 3 |
+X:10,771 ; Y:4,895 ; Angle : 7,723, Cases visitees sous influence : 
+X:6,477 ; Y:11,688 ; Angle : 1,654, Cases visitees sous influence : 
+X:8,061 ; Y:3,459 ; Angle : 2,897, Cases visitees sous influence : 
+X:0,738 ; Y:5,553 ; Angle : 5,033, Cases visitees sous influence : | 7 4 || 7 4 || 7 3 || 6 3 || 5 3 || 1 3 || 0 3 |
+X:0,134 ; Y:12,779 ; Angle : 8,099, Cases visitees sous influence : | 8 9 || 9 9 || 9 10 || 9 11 || 9 12 || 10 12 || 6 4 || 6 3 || 5 3 || 5 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 1 8 |
+X:1,418 ; Y:7,104 ; Angle : 4,094, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 |
+X:10,852 ; Y:3,401 ; Angle : -0,186, Cases visitees sous influence : 
+X:10,279 ; Y:5,906 ; Angle : 28,607, Cases visitees sous influence : | 10 6 || 11 6 || 10 6 || 11 6 || 10 6 || 11 6 || 10 6 || 11 6 || 10 6 || 11 6 || 11 7 || 10 7 || 11 7 || 11 8 |
+X:5,816 ; Y:9,165 ; Angle : 19,099, Cases visitees sous influence : | 9 4 || 10 5 |
+X:4,416 ; Y:3,110 ; Angle : 4,500, Cases visitees sous influence : | 7 3 || 6 3 || 7 3 || 6 3 |
+X:9,167 ; Y:4,875 ; Angle : 0,535, Cases visitees sous influence : 
+X:1,886 ; Y:13,807 ; Angle : -1,832, Cases visitees sous influence : | 8 2 || 8 2 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 0 3 |
+X:1,703 ; Y:15,915 ; Angle : -0,322, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 || 10 6 || 11 6 || 10 6 || 7 3 || 6 3 || 5 3 || 4 3 || 0 3 || 0 3 |
+X:5,065 ; Y:4,355 ; Angle : 1,350, Cases visitees sous influence : | 11 10 || 11 11 || 11 12 || 11 13 || 11 14 |
+X:10,297 ; Y:7,102 ; Angle : 16,748, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 |
+X:6,265 ; Y:3,759 ; Angle : 3,274, Cases visitees sous influence : 
+X:6,940 ; Y:10,328 ; Angle : 1,789, Cases visitees sous influence : 
+X:9,816 ; Y:3,730 ; Angle : -0,816, Cases visitees sous influence : | 8 4 || 8 4 || 7 4 |
+X:11,171 ; Y:9,736 ; Angle : 14,663, Cases visitees sous influence : 
+X:11,283 ; Y:9,005 ; Angle : 5,868, Cases visitees sous influence : | 7 3 || 7 4 || 6 4 || 6 5 || 10 4 || 10 5 || 10 6 || 11 6 || 10 6 || 11 6 || 10 6 |
+X:0,019 ; Y:4,744 ; Angle : -4,372, Cases visitees sous influence : | 5 4 || 4 3 || 3 3 || 2 3 || 1 3 || 1 4 || 1 3 || 0 3 || 0 4 || 1 4 || 0 4 || 0 10 || 0 11 || 0 12 |
+X:6,514 ; Y:4,686 ; Angle : 2,647, Cases visitees sous influence : 
+X:10,682 ; Y:4,878 ; Angle : 11,460, Cases visitees sous influence : 
+X:5,594 ; Y:4,536 ; Angle : 1,032, Cases visitees sous influence : 
+X:3,936 ; Y:9,148 ; Angle : -1,839, Cases visitees sous influence : | 7 4 || 7 3 || 3 3 || 1 3 |
+X:3,960 ; Y:0,910 ; Angle : 6,588, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 0 3 || 5 3 || 4 3 || 3 3 |
+X:1,065 ; Y:12,195 ; Angle : 4,945, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 4 4 || 4 3 || 0 3 |
+X:10,659 ; Y:15,971 ; Angle : 9,648, Cases visitees sous influence : | 7 3 || 7 4 || 6 4 || 7 6 || 6 6 || 1 2 || 1 3 || 0 3 || 0 10 |
+X:6,871 ; Y:12,390 ; Angle : 29,491, Cases visitees sous influence : | 8 4 || 7 4 || 5 3 || 4 3 || 3 3 || 2 3 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 |
+X:0,985 ; Y:8,941 ; Angle : 3,613, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 || 4 3 || 0 3 |
+X:1,031 ; Y:15,376 ; Angle : 3,617, Cases visitees sous influence : | 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 0 7 || 1 7 || 1 8 || 1 9 || 1 8 || 1 9 || 2 9 || 0 10 || 0 11 || 0 12 |
+X:5,666 ; Y:7,964 ; Angle : 0,207, Cases visitees sous influence : | 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 7 6 || 7 7 || 6 7 || 7 7 || 7 8 || 7 9 || 7 4 |
+X:11,793 ; Y:12,590 ; Angle : 4,846, Cases visitees sous influence : | 8 4 || 7 5 || 6 6 || 5 6 || 9 3 || 9 4 || 10 4 || 10 5 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 7 11 || 6 11 || 7 10 || 6 11 || 6 12 || 6 12 || 6 13 || 5 13 |
+X:9,524 ; Y:9,961 ; Angle : 0,524, Cases visitees sous influence : 
+X:6,715 ; Y:12,066 ; Angle : 4,359, Cases visitees sous influence : | 8 4 || 7 4 || 5 2 || 5 3 || 4 3 || 3 3 || 3 2 || 2 2 || 2 3 || 1 3 || 1 3 || 6 2 || 6 3 || 5 3 || 4 3 || 4 3 || 3 3 || 3 3 || 2 3 || 1 3 || 0 3 |
+X:8,669 ; Y:3,463 ; Angle : -0,298, Cases visitees sous influence : 
+X:6,205 ; Y:10,687 ; Angle : 24,105, Cases visitees sous influence : | 8 4 || 7 4 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:2,318 ; Y:1,120 ; Angle : 6,977, Cases visitees sous influence : | 7 6 || 7 7 || 8 8 || 7 8 || 8 9 || 8 7 || 7 7 || 7 8 || 7 9 || 8 2 || 7 3 || 6 3 || 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 |
+X:7,836 ; Y:3,920 ; Angle : 2,293, Cases visitees sous influence : 
+X:11,986 ; Y:12,791 ; Angle : -1,534, Cases visitees sous influence : | 7 4 |
+X:4,112 ; Y:4,122 ; Angle : 1,587, Cases visitees sous influence : | 8 4 || 7 4 || 7 3 || 7 4 || 7 5 || 8 5 || 7 5 || 8 5 || 8 6 || 7 6 || 7 3 || 6 3 || 5 3 || 4 3 || 4 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 || 1 9 |
+X:0,086 ; Y:11,900 ; Angle : -1,341, Cases visitees sous influence : | 8 4 || 7 4 || 7 3 || 7 4 || 6 4 || 6 5 || 8 9 || 9 9 || 9 10 || 9 11 || 9 12 || 10 12 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 8 || 7 9 || 7 10 || 7 9 || 6 10 || 5 4 || 4 4 || 4 3 || 4 4 || 4 3 || 3 3 |
+X:6,615 ; Y:4,562 ; Angle : 2,057, Cases visitees sous influence : 
+X:9,026 ; Y:15,814 ; Angle : 4,719, Cases visitees sous influence : | 9 3 || 9 4 || 10 4 || 10 5 |
+X:0,070 ; Y:6,742 ; Angle : 7,745, Cases visitees sous influence : | 7 3 || 7 4 || 7 3 || 7 4 || 6 4 || 6 6 || 9 3 || 9 4 || 10 4 || 8 2 || 7 3 || 6 3 || 5 3 || 5 2 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 0 3 |
+X:5,042 ; Y:6,605 ; Angle : 1,766, Cases visitees sous influence : | 7 3 |
+X:7,278 ; Y:9,136 ; Angle : 17,001, Cases visitees sous influence : 
+X:4,140 ; Y:2,202 ; Angle : 1,851, Cases visitees sous influence : | 8 4 || 8 4 || 7 3 || 7 4 || 7 3 || 7 4 || 7 5 || 8 5 || 7 5 || 8 5 || 8 6 || 7 6 || 7 4 || 6 4 || 7 4 || 6 4 || 6 3 || 5 3 || 4 3 || 4 4 || 4 3 || 4 4 || 4 3 || 3 3 || 3 3 || 1 3 || 0 3 || 4 2 |
+X:0,053 ; Y:11,371 ; Angle : -1,376, Cases visitees sous influence : | 8 4 || 7 4 || 4 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 4 || 0 5 || 0 6 || 1 6 || 0 7 || 1 7 || 1 8 || 1 9 || 1 8 || 1 9 || 2 9 || 0 3 |
+X:6,347 ; Y:14,614 ; Angle : 5,745, Cases visitees sous influence : | 8 4 || 7 4 || 8 4 || 7 4 || 7 5 || 8 5 |
+X:3,859 ; Y:15,821 ; Angle : 3,507, Cases visitees sous influence : 
+X:9,464 ; Y:10,033 ; Angle : 0,712, Cases visitees sous influence : 
+X:8,724 ; Y:6,646 ; Angle : 2,059, Cases visitees sous influence : 
+X:5,940 ; Y:14,772 ; Angle : 7,834, Cases visitees sous influence : | 8 9 |
+X:10,957 ; Y:10,768 ; Angle : 19,875, Cases visitees sous influence : | 11 11 || 11 12 || 11 13 || 11 14 || 11 15 || 10 14 |
+X:0,008 ; Y:10,553 ; Angle : -1,522, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 |
+X:1,855 ; Y:14,260 ; Angle : 2,042, Cases visitees sous influence : | 11 6 || 10 6 || 11 6 || 10 6 || 11 6 || 11 7 || 11 8 || 5 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 |
+X:2,736 ; Y:2,349 ; Angle : 5,302, Cases visitees sous influence : | 8 9 || 9 9 || 8 9 || 9 9 || 8 9 || 9 9 || 9 10 || 9 11 || 8 5 || 8 6 || 8 5 || 8 6 || 7 6 || 7 2 || 6 2 || 6 3 || 5 3 || 1 3 || 0 3 |
+X:9,198 ; Y:1,331 ; Angle : -3,441, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 |
+X:11,100 ; Y:5,726 ; Angle : 7,216, Cases visitees sous influence : 
+X:8,751 ; Y:4,387 ; Angle : 0,758, Cases visitees sous influence : 
+X:0,370 ; Y:9,594 ; Angle : 4,097, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 |
+X:0,859 ; Y:2,926 ; Angle : -5,148, Cases visitees sous influence : | 9 9 || 9 10 || 9 11 || 9 12 || 10 12 || 7 4 || 7 4 || 7 3 || 7 4 || 7 3 || 3 3 || 1 3 || 0 3 |
+X:6,995 ; Y:14,509 ; Angle : 32,780, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 || 10 6 || 10 5 || 10 6 || 11 6 || 7 9 || 7 10 || 6 10 || 6 11 |
+X:6,068 ; Y:12,215 ; Angle : 13,799, Cases visitees sous influence : | 8 6 || 7 6 || 7 7 |
+X:8,587 ; Y:3,564 ; Angle : 4,654, Cases visitees sous influence : 
+X:4,710 ; Y:0,488 ; Angle : 4,007, Cases visitees sous influence : | 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 8 2 |
+X:1,797 ; Y:9,125 ; Angle : -2,398, Cases visitees sous influence : | 7 3 || 7 4 || 7 3 || 7 4 || 7 3 || 6 3 || 5 3 || 4 3 || 0 3 |
+X:5,298 ; Y:5,358 ; Angle : 4,723, Cases visitees sous influence : 
+X:6,217 ; Y:12,376 ; Angle : 32,038, Cases visitees sous influence : 
+X:5,599 ; Y:5,303 ; Angle : 10,259, Cases visitees sous influence : | 6 2 || 5 2 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 |
+X:1,157 ; Y:13,826 ; Angle : 0,680, Cases visitees sous influence : | 8 4 || 7 4 || 6 4 || 6 6 || 8 9 || 9 9 || 8 9 || 9 9 || 9 10 || 9 11 || 9 12 || 7 3 || 6 3 || 5 3 || 1 3 || 0 3 |
+X:6,293 ; Y:2,408 ; Angle : 3,269, Cases visitees sous influence : | 7 4 || 8 4 || 7 4 || 7 5 || 8 5 || 7 5 || 7 6 |
+X:10,861 ; Y:4,518 ; Angle : 2,506, Cases visitees sous influence : | 8 6 || 7 6 || 7 7 || 8 7 || 8 9 || 8 2 |
+X:9,206 ; Y:3,003 ; Angle : 1,668, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 5 || 7 6 || 8 6 || 7 6 || 7 7 |
+X:7,880 ; Y:12,566 ; Angle : 14,384, Cases visitees sous influence : | 7 5 || 8 6 || 7 6 || 8 6 || 7 6 || 7 7 || 7 8 |
+X:5,778 ; Y:11,670 ; Angle : 11,034, Cases visitees sous influence : 
+X:11,778 ; Y:7,565 ; Angle : 10,718, Cases visitees sous influence : | 9 11 || 9 12 || 10 12 || 10 13 || 10 14 |
+X:7,041 ; Y:8,598 ; Angle : 9,568, Cases visitees sous influence : | 5 2 || 5 3 || 7 5 |
+X:4,869 ; Y:0,368 ; Angle : 2,731, Cases visitees sous influence : | 7 3 |
+X:4,492 ; Y:2,899 ; Angle : 1,620, Cases visitees sous influence : | 4 2 |
+X:11,606 ; Y:12,114 ; Angle : 7,502, Cases visitees sous influence : | 9 9 || 9 10 || 9 11 || 9 12 || 10 12 |
+X:9,181 ; Y:9,201 ; Angle : 0,868, Cases visitees sous influence : 
+X:7,511 ; Y:11,622 ; Angle : -0,707, Cases visitees sous influence : 
+X:4,919 ; Y:0,387 ; Angle : 12,954, Cases visitees sous influence : | 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 9 |
+X:1,945 ; Y:14,705 ; Angle : 1,933, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 || 4 3 || 1 3 || 0 3 || 1 3 || 0 3 |
+X:0,565 ; Y:3,601 ; Angle : 0,730, Cases visitees sous influence : 
+X:10,541 ; Y:15,919 ; Angle : 3,303, Cases visitees sous influence : 
+X:6,719 ; Y:7,002 ; Angle : 4,350, Cases visitees sous influence : | 5 3 || 4 3 || 3 3 || 8 4 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:10,263 ; Y:4,096 ; Angle : 20,561, Cases visitees sous influence : | 9 3 || 9 4 |
+X:9,034 ; Y:13,996 ; Angle : 1,507, Cases visitees sous influence : | 3 3 || 3 2 || 8 6 || 7 6 || 7 7 || 7 8 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 8 7 || 7 3 |
+X:1,541 ; Y:13,499 ; Angle : 5,133, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 || 7 3 || 6 3 || 5 3 || 4 3 || 0 3 |
+X:0,967 ; Y:7,485 ; Angle : 3,723, Cases visitees sous influence : | 11 8 || 11 9 || 11 10 || 11 11 || 7 4 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 1 3 || 0 3 || 0 4 || 0 10 || 0 11 || 0 12 |
+X:7,564 ; Y:4,839 ; Angle : 15,063, Cases visitees sous influence : | 9 3 || 9 4 || 10 4 || 10 5 |
+X:1,801 ; Y:1,803 ; Angle : 3,365, Cases visitees sous influence : 
+X:0,624 ; Y:15,875 ; Angle : 9,763, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 1 4 || 0 4 || 0 10 || 0 11 |
+X:7,009 ; Y:13,985 ; Angle : 0,486, Cases visitees sous influence : | 8 6 || 7 7 || 7 7 || 7 8 || 7 8 || 7 8 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:0,586 ; Y:10,768 ; Angle : -0,729, Cases visitees sous influence : | 8 7 || 8 8 || 8 9 || 9 9 || 8 9 || 9 9 || 9 10 || 6 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 |
+X:4,185 ; Y:2,862 ; Angle : 1,743, Cases visitees sous influence : | 6 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 4 2 |
+X:4,171 ; Y:15,948 ; Angle : 34,535, Cases visitees sous influence : | 8 4 || 7 3 || 6 3 || 5 3 || 4 3 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 |
+X:10,095 ; Y:6,988 ; Angle : 11,070, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 |
+X:5,787 ; Y:2,177 ; Angle : 11,257, Cases visitees sous influence : | 8 9 |
+X:5,085 ; Y:11,245 ; Angle : 4,800, Cases visitees sous influence : 
+X:0,056 ; Y:1,623 ; Angle : 10,974, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 5 4 || 4 4 || 5 4 || 4 4 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 0 5 || 0 6 || 0 7 || 1 7 || 1 8 || 0 8 || 1 8 || 1 9 || 1 8 |
+X:10,793 ; Y:3,726 ; Angle : 4,394, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 || 10 6 || 11 5 |
+X:1,919 ; Y:10,964 ; Angle : -4,752, Cases visitees sous influence : | 7 3 || 6 3 || 6 2 || 6 3 || 5 3 || 4 3 || 3 3 |
+X:6,301 ; Y:10,078 ; Angle : 24,782, Cases visitees sous influence : | 8 4 || 7 4 || 8 6 || 8 7 || 7 7 || 7 8 || 7 9 || 8 9 || 7 9 || 8 9 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 8 |
+X:9,377 ; Y:9,664 ; Angle : 6,177, Cases visitees sous influence : | 7 5 || 8 6 || 8 6 || 7 5 || 7 6 || 8 6 || 7 6 || 7 7 || 7 8 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 7 11 || 6 11 || 7 11 || 6 11 || 7 11 || 7 10 || 6 10 || 6 11 |
+X:11,737 ; Y:9,609 ; Angle : 14,861, Cases visitees sous influence : 
+X:6,629 ; Y:0,367 ; Angle : 5,552, Cases visitees sous influence : | 8 4 || 7 4 || 6 4 || 7 4 || 7 5 || 6 6 || 6 2 || 5 2 || 5 3 || 4 3 || 7 4 || 7 3 || 6 3 || 5 4 || 5 3 || 4 4 || 4 3 || 3 3 |
+X:11,837 ; Y:6,288 ; Angle : 10,845, Cases visitees sous influence : 
+X:11,946 ; Y:5,098 ; Angle : 4,803, Cases visitees sous influence : | 7 3 || 6 3 || 6 4 || 6 5 || 7 5 || 8 5 |
+X:3,937 ; Y:9,366 ; Angle : 6,046, Cases visitees sous influence : | 7 5 || 7 6 || 6 6 || 10 4 || 10 5 || 10 6 || 11 6 || 10 6 || 11 6 || 11 5 || 10 6 || 8 4 || 7 4 || 7 5 || 8 5 || 7 4 || 7 3 || 6 3 || 5 3 || 0 3 |
+X:7,719 ; Y:11,161 ; Angle : -11,873, Cases visitees sous influence : 
+X:9,097 ; Y:12,455 ; Angle : 17,362, Cases visitees sous influence : | 7 3 || 7 4 || 6 4 || 6 5 || 7 5 || 6 6 || 6 6 || 9 9 || 9 10 || 9 11 || 9 12 || 10 12 |
+X:6,927 ; Y:13,979 ; Angle : 3,053, Cases visitees sous influence : | 9 4 || 10 4 || 10 5 || 6 7 || 7 8 || 7 9 || 7 10 || 6 10 |
+X:5,173 ; Y:6,454 ; Angle : -1,726, Cases visitees sous influence : 
+X:0,988 ; Y:10,553 ; Angle : 4,650, Cases visitees sous influence : | 8 4 || 7 4 || 6 4 || 6 6 || 6 6 || 5 6 || 11 5 || 11 6 || 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 1 4 || 0 4 || 0 5 || 0 6 |
+X:4,086 ; Y:15,793 ; Angle : 3,276, Cases visitees sous influence : 
+X:6,193 ; Y:6,615 ; Angle : 2,632, Cases visitees sous influence : 
+X:7,036 ; Y:9,389 ; Angle : -3,316, Cases visitees sous influence : 
+X:7,918 ; Y:9,730 ; Angle : 10,997, Cases visitees sous influence : | 7 6 || 7 7 || 7 8 |
+X:10,547 ; Y:4,538 ; Angle : 6,825, Cases visitees sous influence : | 7 4 || 7 3 || 6 3 || 6 3 || 6 3 |
+X:7,026 ; Y:12,211 ; Angle : 11,861, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 7 5 || 7 6 || 8 6 || 7 6 || 7 7 || 7 8 |
+X:11,394 ; Y:9,187 ; Angle : 10,775, Cases visitees sous influence : | 11 6 || 10 6 || 11 6 || 10 6 || 10 7 || 10 6 || 11 7 || 11 8 || 11 9 || 10 9 || 11 8 || 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 8 7 || 7 7 |
+X:9,072 ; Y:0,307 ; Angle : 1,198, Cases visitees sous influence : 
+X:6,327 ; Y:4,281 ; Angle : 14,789, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 |
+X:10,847 ; Y:4,772 ; Angle : 14,236, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 8 7 || 7 7 || 8 7 || 7 7 |
+X:3,426 ; Y:3,971 ; Angle : 3,452, Cases visitees sous influence : | 4 3 || 4 4 || 6 6 || 7 6 || 0 2 || 0 3 || 8 5 || 8 6 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 3 || 5 3 |
+X:8,806 ; Y:7,627 ; Angle : 1,511, Cases visitees sous influence : 
+X:7,999 ; Y:5,764 ; Angle : 1,692, Cases visitees sous influence : 
+X:0,912 ; Y:11,923 ; Angle : 5,447, Cases visitees sous influence : | 7 3 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 |
+X:10,044 ; Y:5,212 ; Angle : 11,064, Cases visitees sous influence : | 8 4 || 7 4 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 |
+X:1,006 ; Y:2,200 ; Angle : 3,389, Cases visitees sous influence : | 7 4 || 6 4 || 6 3 || 6 4 || 6 5 || 11 6 || 10 6 || 11 6 || 10 6 || 11 6 || 11 7 || 10 7 || 11 7 || 8 7 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 6 12 || 6 13 || 5 13 || 5 14 || 5 15 || 5 14 || 5 15 || 4 15 || 8 2 || 8 2 || 7 4 || 7 3 || 6 3 || 6 3 |
+X:11,938 ; Y:7,223 ; Angle : 14,207, Cases visitees sous influence : | 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 || 7 11 || 6 11 || 7 10 || 7 11 || 6 11 || 6 10 || 6 11 || 6 12 || 7 11 || 7 10 || 6 10 || 6 11 || 7 11 || 7 11 || 7 10 || 6 10 || 6 11 || 6 12 |
+X:11,868 ; Y:5,702 ; Angle : 1,656, Cases visitees sous influence : 
+X:1,131 ; Y:6,800 ; Angle : 0,659, Cases visitees sous influence : | 7 3 || 8 4 || 7 4 || 6 4 || 10 4 || 10 4 || 10 5 || 11 5 || 11 6 || 10 6 || 11 6 || 10 6 || 11 6 || 11 6 || 7 4 || 7 5 || 7 5 || 8 6 || 7 6 || 7 7 || 7 8 || 8 7 || 7 7 || 4 3 |
+X:6,423 ; Y:13,472 ; Angle : 22,946, Cases visitees sous influence : | 6 3 || 5 3 || 7 5 || 8 5 || 8 6 || 7 6 || 7 7 || 7 8 || 7 9 |
+X:5,235 ; Y:2,070 ; Angle : 7,122, Cases visitees sous influence : | 8 4 || 3 2 || 1 2 || 1 3 || 0 3 || 1 4 || 0 4 || 0 5 || 0 10 || 4 3 || 3 3 |
+X:6,912 ; Y:2,306 ; Angle : 1,795, Cases visitees sous influence : | 0 2 || 0 3 || 7 6 || 7 7 || 7 8 || 7 9 || 7 10 || 6 10 || 6 4 || 6 3 || 5 3 || 4 3 || 3 3 || 2 3 || 1 3 || 0 3 || 0 4 || 1 8 |
+X:7,392 ; Y:9,423 ; Angle : 16,900, Cases visitees sous influence : | 9 4 || 10 4 || 7 8 || 7 9 || 7 10 || 6 10 || 6 11 |
+X:8,254 ; Y:7,094 ; Angle : -0,407, Cases visitees sous influence : | 11 8 || 11 9 || 11 10 || 11 11 || 7 3 || 6 3 || 5 3 |
+X:11,687 ; Y:5,155 ; Angle : -1,496, Cases visitees sous influence : 
+</Fourmis>
+<Ressources>
+Pheromone[id:519 quantite: 0]  en position (0, 0) Vers colonie [ Direction : 1,0 | Taux : 2497 ] Aucun pheromone vers nourriture
+Pheromone[id:523 quantite: 0]  en position (0, 1) Vers colonie [ Direction : 1,0 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:532 quantite: 0]  en position (0, 2) Vers colonie [ Direction : 1,0 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:538 quantite: 0]  en position (0, 3) Vers colonie [ Direction : 1,-1 | Taux : 2498 ] Aucun pheromone vers nourriture
+Pheromone[id:544 quantite: 86]  en position (0, 4) Vers colonie [ Direction : 0,-1 | Taux : 2494 ] Aucun pheromone vers nourriture
+Pheromone[id:550 quantite: 86]  en position (0, 5) Vers colonie [ Direction : 0,-1 | Taux : 2496 ] Aucun pheromone vers nourriture
+Pheromone[id:553 quantite: 82]  en position (0, 6) Vers colonie [ Direction : 0,-1 | Taux : 2498 ] Aucun pheromone vers nourriture
+Pheromone[id:555 quantite: 54]  en position (0, 7) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:566 quantite: 24]  en position (0, 8) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:564 quantite: 0]  en position (0, 9) Vers colonie [ Direction : 0,1 | Taux : 2494 ] Aucun pheromone vers nourriture
+Pheromone[id:563 quantite: 0]  en position (0, 10) Vers colonie [ Direction : 1,0 | Taux : 2498 ] Aucun pheromone vers nourriture
+Pheromone[id:570 quantite: 0]  en position (0, 11) Vers colonie [ Direction : 0,-1 | Taux : 2498 ] Aucun pheromone vers nourriture
+Pheromone[id:571 quantite: 0]  en position (0, 12) Vers colonie [ Direction : 0,-1 | Taux : 2496 ] Aucun pheromone vers nourriture
+Pheromone[id:573 quantite: 0]  en position (0, 13) Vers colonie [ Direction : 0,-1 | Taux : 2492 ] Aucun pheromone vers nourriture
+Pheromone[id:575 quantite: 0]  en position (0, 14) Vers colonie [ Direction : 0,-1 | Taux : 2277 ] Aucun pheromone vers nourriture
+Pheromone[id:577 quantite: 0]  en position (0, 15) Vers colonie [ Direction : 0,-1 | Taux : 2385 ] Aucun pheromone vers nourriture
+Pheromone[id:512 quantite: 0]  en position (1, 0) Vers colonie [ Direction : 1,0 | Taux : 2492 ] Aucun pheromone vers nourriture
+Pheromone[id:520 quantite: 0]  en position (1, 1) Vers colonie [ Direction : 0,-1 | Taux : 2048 ] Aucun pheromone vers nourriture
+Pheromone[id:528 quantite: 0]  en position (1, 2) Vers colonie [ Direction : 1,0 | Taux : 2498 ] Aucun pheromone vers nourriture
+Pheromone[id:533 quantite: 118]  en position (1, 3) Vers colonie [ Direction : 1,0 | Taux : 2495 ] Aucun pheromone vers nourriture
+Pheromone[id:539 quantite: 118]  en position (1, 4) Vers colonie [ Direction : 1,-1 | Taux : 2498 ] Aucun pheromone vers nourriture
+Obstacle[id:380 quantite: 0]  en position (1, 5)
+Pheromone[id:556 quantite: 86]  en position (1, 6) Vers colonie [ Direction : -1,0 | Taux : 2497 ] Aucun pheromone vers nourriture
+Pheromone[id:557 quantite: 54]  en position (1, 7) Vers colonie [ Direction : -1,0 | Taux : 2493 ] Aucun pheromone vers nourriture
+Pheromone[id:558 quantite: 24]  en position (1, 8) Vers colonie [ Direction : 0,-1 | Taux : 2498 ] Aucun pheromone vers nourriture
+Pheromone[id:560 quantite: 0]  en position (1, 9) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:561 quantite: 0]  en position (1, 10) Vers colonie [ Direction : 0,-1 | Taux : 2496 ] Aucun pheromone vers nourriture
+Obstacle[id:381 quantite: 0]  en position (1, 11)
+Pheromone[id:582 quantite: 76]  en position (1, 12) Vers colonie [ Direction : -1,0 | Taux : 2491 ] Aucun pheromone vers nourriture
+Pheromone[id:574 quantite: 0]  en position (1, 13) Vers colonie [ Direction : -1,0 | Taux : 2475 ] Aucun pheromone vers nourriture
+Pheromone[id:576 quantite: 0]  en position (1, 14) Vers colonie [ Direction : -1,0 | Taux : 2362 ] Aucun pheromone vers nourriture
+Pheromone[id:578 quantite: 0]  en position (1, 15) Vers colonie [ Direction : 0,-1 | Taux : 2419 ] Aucun pheromone vers nourriture
+Pheromone[id:504 quantite: 0]  en position (2, 0) Vers colonie [ Direction : 1,0 | Taux : 2301 ] Aucun pheromone vers nourriture
+Pheromone[id:506 quantite: 0]  en position (2, 1) Vers colonie [ Direction : 1,0 | Taux : 2096 ] Aucun pheromone vers nourriture
+Pheromone[id:522 quantite: 0]  en position (2, 2) Vers colonie [ Direction : 1,0 | Taux : 2490 ] Aucun pheromone vers nourriture
+Pheromone[id:501 quantite: 142]  en position (2, 3) Vers colonie [ Direction : 1,0 | Taux : 2485 ] Aucun pheromone vers nourriture
+Obstacle[id:384 quantite: 0]  en position (2, 4)
+Obstacle[id:385 quantite: 0]  en position (2, 5)
+Pheromone[id:568 quantite: 82]  en position (2, 6) Vers colonie [ Direction : -1,0 | Taux : 1970 ] Aucun pheromone vers nourriture
+Obstacle[id:386 quantite: 0]  en position (2, 7)
+Obstacle[id:387 quantite: 0]  en position (2, 8)
+Pheromone[id:562 quantite: 0]  en position (2, 9) Vers colonie [ Direction : -1,0 | Taux : 2491 ] Aucun pheromone vers nourriture
+Obstacle[id:388 quantite: 0]  en position (2, 10)
+Obstacle[id:389 quantite: 0]  en position (2, 11)
+Obstacle[id:390 quantite: 0]  en position (2, 12)
+Obstacle[id:391 quantite: 0]  en position (2, 13)
+Obstacle[id:392 quantite: 0]  en position (2, 14)
+Obstacle[id:393 quantite: 0]  en position (2, 15)
+Pheromone[id:498 quantite: 0]  en position (3, 0) Vers colonie [ Direction : 0,1 | Taux : 2436 ] Aucun pheromone vers nourriture
+Pheromone[id:496 quantite: 0]  en position (3, 1) Vers colonie [ Direction : 1,0 | Taux : 2120 ] Aucun pheromone vers nourriture
+Pheromone[id:497 quantite: 0]  en position (3, 2) Vers colonie [ Direction : 0,1 | Taux : 2469 ] Aucun pheromone vers nourriture
+Pheromone[id:492 quantite: 168]  en position (3, 3) Vers colonie [ Direction : 1,0 | Taux : 2488 ] Aucun pheromone vers nourriture
+Obstacle[id:394 quantite: 0]  en position (3, 4)
+Obstacle[id:395 quantite: 0]  en position (3, 5)
+Obstacle[id:396 quantite: 0]  en position (3, 6)
+Pheromone[id:581 quantite: 0]  en position (3, 7) Vers colonie [ Direction : 0,1 | Taux : 2428 ] Aucun pheromone vers nourriture
+Pheromone[id:580 quantite: 0]  en position (3, 8) Vers colonie [ Direction : 0,1 | Taux : 2437 ] Aucun pheromone vers nourriture
+Pheromone[id:569 quantite: 0]  en position (3, 9) Vers colonie [ Direction : -1,0 | Taux : 2490 ] Aucun pheromone vers nourriture
+Obstacle[id:399 quantite: 0]  en position (3, 10)
+Obstacle[id:400 quantite: 0]  en position (3, 11)
+Obstacle[id:401 quantite: 0]  en position (3, 12)
+Obstacle[id:402 quantite: 0]  en position (3, 13)
+Obstacle[id:403 quantite: 0]  en position (3, 14)
+Pheromone[id:579 quantite: 0]  en position (3, 15) Vers colonie [ Direction : 1,0 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:489 quantite: 0]  en position (4, 0) Vers colonie [ Direction : 1,0 | Taux : 2048 ] Aucun pheromone vers nourriture
+Pheromone[id:488 quantite: 0]  en position (4, 1) Vers colonie [ Direction : 1,0 | Taux : 2150 ] Aucun pheromone vers nourriture
+Pheromone[id:485 quantite: 0]  en position (4, 2) Vers colonie [ Direction : 1,0 | Taux : 2496 ] Vers nourriture [ Direction : 0,1 | Taux : 156 ]
+Pheromone[id:482 quantite: 192]  en position (4, 3) Vers colonie [ Direction : 1,0 | Taux : 2496 ] Aucun pheromone vers nourriture
+Pheromone[id:484 quantite: 192]  en position (4, 4) Vers colonie [ Direction : 1,0 | Taux : 2498 ] Aucun pheromone vers nourriture
+Obstacle[id:405 quantite: 0]  en position (4, 5)
+Obstacle[id:406 quantite: 0]  en position (4, 6)
+Obstacle[id:407 quantite: 0]  en position (4, 7)
+Obstacle[id:408 quantite: 0]  en position (4, 8)
+Obstacle[id:409 quantite: 0]  en position (4, 9)
+Obstacle[id:410 quantite: 0]  en position (4, 10)
+Obstacle[id:411 quantite: 0]  en position (4, 11)
+Obstacle[id:412 quantite: 0]  en position (4, 12)
+Obstacle[id:413 quantite: 0]  en position (4, 13)
+Pheromone[id:547 quantite: 0]  en position (4, 14) Vers colonie [ Direction : 1,0 | Taux : 2487 ] Aucun pheromone vers nourriture
+Pheromone[id:572 quantite: 0]  en position (4, 15) Vers colonie [ Direction : 1,0 | Taux : 2498 ] Aucun pheromone vers nourriture
+Pheromone[id:481 quantite: 0]  en position (5, 0) Vers colonie [ Direction : 1,1 | Taux : 1949 ] Aucun pheromone vers nourriture
+Pheromone[id:474 quantite: 0]  en position (5, 1) Vers colonie [ Direction : 1,0 | Taux : 2100 ] Aucun pheromone vers nourriture
+Pheromone[id:472 quantite: 72]  en position (5, 2) Vers colonie [ Direction : 1,0 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:467 quantite: 218]  en position (5, 3) Vers colonie [ Direction : 1,0 | Taux : 2493 ] Aucun pheromone vers nourriture
+Pheromone[id:469 quantite: 218]  en position (5, 4) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:475 quantite: 192]  en position (5, 5) Vers colonie [ Direction : 0,-1 | Taux : 2424 ] Aucun pheromone vers nourriture
+Pheromone[id:495 quantite: 0]  en position (5, 6) Vers colonie [ Direction : 0,-1 | Taux : 2419 ] Aucun pheromone vers nourriture
+Pheromone[id:554 quantite: 0]  en position (5, 7) Vers colonie [ Direction : 0,-1 | Taux : 2397 ] Aucun pheromone vers nourriture
+Obstacle[id:417 quantite: 0]  en position (5, 8)
+Pheromone[id:546 quantite: 0]  en position (5, 9) Vers colonie [ Direction : 0,1 | Taux : 2493 ] Aucun pheromone vers nourriture
+Pheromone[id:521 quantite: 0]  en position (5, 10) Vers colonie [ Direction : 1,0 | Taux : 2498 ] Aucun pheromone vers nourriture
+Pheromone[id:526 quantite: 0]  en position (5, 11) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:531 quantite: 0]  en position (5, 12) Vers colonie [ Direction : 1,0 | Taux : 2498 ] Aucun pheromone vers nourriture
+Pheromone[id:537 quantite: 0]  en position (5, 13) Vers colonie [ Direction : 1,0 | Taux : 2491 ] Aucun pheromone vers nourriture
+Pheromone[id:542 quantite: 0]  en position (5, 14) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:567 quantite: 0]  en position (5, 15) Vers colonie [ Direction : 0,-1 | Taux : 2495 ] Aucun pheromone vers nourriture
+Pheromone[id:478 quantite: 0]  en position (6, 0) Vers colonie [ Direction : 0,1 | Taux : 2040 ] Aucun pheromone vers nourriture
+Pheromone[id:466 quantite: 0]  en position (6, 1) Vers colonie [ Direction : 0,1 | Taux : 2066 ] Aucun pheromone vers nourriture
+Pheromone[id:462 quantite: 218]  en position (6, 2) Vers colonie [ Direction : 1,0 | Taux : 2496 ] Aucun pheromone vers nourriture
+Pheromone[id:454 quantite: 242]  en position (6, 3) Vers colonie [ Direction : 1,0 | Taux : 2491 ] Vers nourriture [ Direction : -1,0 | Taux : 34 ]
+Pheromone[id:458 quantite: 242]  en position (6, 4) Vers colonie [ Direction : 1,0 | Taux : 2495 ] Aucun pheromone vers nourriture
+Pheromone[id:465 quantite: 218]  en position (6, 5) Vers colonie [ Direction : 0,-1 | Taux : 2490 ] Aucun pheromone vers nourriture
+Pheromone[id:476 quantite: 0]  en position (6, 6) Vers colonie [ Direction : 1,-1 | Taux : 2498 ] Aucun pheromone vers nourriture
+Pheromone[id:487 quantite: 0]  en position (6, 7) Vers colonie [ Direction : 0,-1 | Taux : 2480 ] Aucun pheromone vers nourriture
+Obstacle[id:419 quantite: 0]  en position (6, 8)
+Obstacle[id:420 quantite: 0]  en position (6, 9)
+Pheromone[id:511 quantite: 0]  en position (6, 10) Vers colonie [ Direction : 1,0 | Taux : 2497 ] Aucun pheromone vers nourriture
+Pheromone[id:516 quantite: 0]  en position (6, 11) Vers colonie [ Direction : 0,-1 | Taux : 2494 ] Aucun pheromone vers nourriture
+Pheromone[id:525 quantite: 0]  en position (6, 12) Vers colonie [ Direction : 0,-1 | Taux : 2497 ] Aucun pheromone vers nourriture
+Pheromone[id:534 quantite: 0]  en position (6, 13) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:540 quantite: 0]  en position (6, 14) Vers colonie [ Direction : 0,-1 | Taux : 2496 ] Aucun pheromone vers nourriture
+Obstacle[id:421 quantite: 0]  en position (6, 15)
+Obstacle[id:422 quantite: 0]  en position (7, 0)
+Obstacle[id:423 quantite: 0]  en position (7, 1)
+Pheromone[id:452 quantite: 242]  en position (7, 2) Vers colonie [ Direction : 1,1 | Taux : 2490 ] Aucun pheromone vers nourriture
+Pheromone[id:448 quantite: 242]  en position (7, 3) Vers colonie [ Direction : 1,0 | Taux : 2498 ] Vers nourriture [ Direction : -1,0 | Taux : 120 ]
+Pheromone[id:451 quantite: 242]  en position (7, 4) Vers colonie [ Direction : 1,-1 | Taux : 2496 ] Aucun pheromone vers nourriture
+Pheromone[id:460 quantite: 242]  en position (7, 5) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:473 quantite: 0]  en position (7, 6) Vers colonie [ Direction : 0,-1 | Taux : 2489 ] Aucun pheromone vers nourriture
+Pheromone[id:483 quantite: 0]  en position (7, 7) Vers colonie [ Direction : 1,-1 | Taux : 2485 ] Aucun pheromone vers nourriture
+Pheromone[id:493 quantite: 0]  en position (7, 8) Vers colonie [ Direction : 0,-1 | Taux : 2497 ] Aucun pheromone vers nourriture
+Pheromone[id:502 quantite: 0]  en position (7, 9) Vers colonie [ Direction : 0,-1 | Taux : 2496 ] Aucun pheromone vers nourriture
+Pheromone[id:509 quantite: 0]  en position (7, 10) Vers colonie [ Direction : 0,-1 | Taux : 2496 ] Aucun pheromone vers nourriture
+Pheromone[id:514 quantite: 0]  en position (7, 11) Vers colonie [ Direction : 0,-1 | Taux : 2497 ] Aucun pheromone vers nourriture
+Pheromone[id:527 quantite: 0]  en position (7, 12) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:536 quantite: 0]  en position (7, 13) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Obstacle[id:424 quantite: 0]  en position (7, 14)
+Obstacle[id:425 quantite: 0]  en position (7, 15)
+Obstacle[id:426 quantite: 0]  en position (8, 0)
+Obstacle[id:427 quantite: 0]  en position (8, 1)
+Pheromone[id:447 quantite: 2]  en position (8, 2) Vers colonie [ Direction : 0,1 | Taux : 2492 ] Aucun pheromone vers nourriture
+Colonie[id:428 quantite: 3000]  en position (8, 3)
+Pheromone[id:446 quantite: 242]  en position (8, 4) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:455 quantite: 2]  en position (8, 5) Vers colonie [ Direction : 0,-1 | Taux : 2496 ] Aucun pheromone vers nourriture
+Pheromone[id:468 quantite: 0]  en position (8, 6) Vers colonie [ Direction : 0,-1 | Taux : 2491 ] Aucun pheromone vers nourriture
+Pheromone[id:479 quantite: 0]  en position (8, 7) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:491 quantite: 0]  en position (8, 8) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:500 quantite: 0]  en position (8, 9) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Obstacle[id:429 quantite: 0]  en position (8, 10)
+Obstacle[id:430 quantite: 0]  en position (8, 11)
+Obstacle[id:431 quantite: 0]  en position (8, 12)
+Obstacle[id:432 quantite: 0]  en position (8, 13)
+Obstacle[id:433 quantite: 0]  en position (8, 14)
+Obstacle[id:434 quantite: 0]  en position (8, 15)
+Pheromone[id:471 quantite: 0]  en position (9, 0) Vers colonie [ Direction : 0,1 | Taux : 2474 ] Aucun pheromone vers nourriture
+Pheromone[id:457 quantite: 0]  en position (9, 1) Vers colonie [ Direction : -1,1 | Taux : 2497 ] Aucun pheromone vers nourriture
+Pheromone[id:453 quantite: 0]  en position (9, 2) Vers colonie [ Direction : -1,1 | Taux : 2492 ] Aucun pheromone vers nourriture
+Pheromone[id:449 quantite: 0]  en position (9, 3) Vers colonie [ Direction : -1,0 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:450 quantite: 0]  en position (9, 4) Vers colonie [ Direction : -1,-1 | Taux : 2497 ] Aucun pheromone vers nourriture
+Obstacle[id:435 quantite: 0]  en position (9, 5)
+Obstacle[id:436 quantite: 0]  en position (9, 6)
+Obstacle[id:437 quantite: 0]  en position (9, 7)
+Obstacle[id:438 quantite: 0]  en position (9, 8)
+Pheromone[id:505 quantite: 0]  en position (9, 9) Vers colonie [ Direction : -1,0 | Taux : 2498 ] Aucun pheromone vers nourriture
+Pheromone[id:508 quantite: 0]  en position (9, 10) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:515 quantite: 0]  en position (9, 11) Vers colonie [ Direction : 0,-1 | Taux : 2484 ] Aucun pheromone vers nourriture
+Pheromone[id:529 quantite: 0]  en position (9, 12) Vers colonie [ Direction : 0,-1 | Taux : 2492 ] Aucun pheromone vers nourriture
+Pheromone[id:545 quantite: 0]  en position (9, 13) Vers colonie [ Direction : 1,0 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:551 quantite: 0]  en position (9, 14) Vers colonie [ Direction : 0,-1 | Taux : 2496 ] Aucun pheromone vers nourriture
+Pheromone[id:565 quantite: 0]  en position (9, 15) Vers colonie [ Direction : 1,0 | Taux : 2494 ] Aucun pheromone vers nourriture
+Obstacle[id:440 quantite: 0]  en position (10, 0)
+Pheromone[id:464 quantite: 0]  en position (10, 1) Vers colonie [ Direction : -1,1 | Taux : 2494 ] Aucun pheromone vers nourriture
+Pheromone[id:459 quantite: 0]  en position (10, 2) Vers colonie [ Direction : -1,1 | Taux : 2492 ] Aucun pheromone vers nourriture
+Pheromone[id:456 quantite: 0]  en position (10, 3) Vers colonie [ Direction : -1,0 | Taux : 2496 ] Aucun pheromone vers nourriture
+Pheromone[id:461 quantite: 0]  en position (10, 4) Vers colonie [ Direction : -1,0 | Taux : 2498 ] Aucun pheromone vers nourriture
+Pheromone[id:463 quantite: 0]  en position (10, 5) Vers colonie [ Direction : -1,-1 | Taux : 2491 ] Aucun pheromone vers nourriture
+Pheromone[id:480 quantite: 0]  en position (10, 6) Vers colonie [ Direction : 0,-1 | Taux : 2498 ] Aucun pheromone vers nourriture
+Pheromone[id:490 quantite: 0]  en position (10, 7) Vers colonie [ Direction : 0,-1 | Taux : 2485 ] Aucun pheromone vers nourriture
+Pheromone[id:499 quantite: 0]  en position (10, 8) Vers colonie [ Direction : 0,-1 | Taux : 2479 ] Aucun pheromone vers nourriture
+Pheromone[id:507 quantite: 0]  en position (10, 9) Vers colonie [ Direction : 0,-1 | Taux : 2493 ] Aucun pheromone vers nourriture
+Pheromone[id:513 quantite: 0]  en position (10, 10) Vers colonie [ Direction : 0,-1 | Taux : 2495 ] Aucun pheromone vers nourriture
+Pheromone[id:518 quantite: 0]  en position (10, 11) Vers colonie [ Direction : 0,-1 | Taux : 2494 ] Aucun pheromone vers nourriture
+Pheromone[id:530 quantite: 0]  en position (10, 12) Vers colonie [ Direction : -1,0 | Taux : 2488 ] Aucun pheromone vers nourriture
+Pheromone[id:543 quantite: 0]  en position (10, 13) Vers colonie [ Direction : 0,-1 | Taux : 2483 ] Aucun pheromone vers nourriture
+Pheromone[id:548 quantite: 0]  en position (10, 14) Vers colonie [ Direction : 0,-1 | Taux : 2493 ] Aucun pheromone vers nourriture
+Pheromone[id:559 quantite: 0]  en position (10, 15) Vers colonie [ Direction : 0,-1 | Taux : 2498 ] Aucun pheromone vers nourriture
+Obstacle[id:442 quantite: 0]  en position (11, 0)
+Obstacle[id:443 quantite: 0]  en position (11, 1)
+Obstacle[id:444 quantite: 0]  en position (11, 2)
+Obstacle[id:445 quantite: 0]  en position (11, 3)
+Pheromone[id:470 quantite: 0]  en position (11, 4) Vers colonie [ Direction : -1,-1 | Taux : 2495 ] Aucun pheromone vers nourriture
+Pheromone[id:477 quantite: 0]  en position (11, 5) Vers colonie [ Direction : -1,0 | Taux : 2498 ] Aucun pheromone vers nourriture
+Pheromone[id:486 quantite: 0]  en position (11, 6) Vers colonie [ Direction : -1,0 | Taux : 2498 ] Aucun pheromone vers nourriture
+Pheromone[id:494 quantite: 0]  en position (11, 7) Vers colonie [ Direction : 0,-1 | Taux : 2493 ] Aucun pheromone vers nourriture
+Pheromone[id:503 quantite: 0]  en position (11, 8) Vers colonie [ Direction : 0,-1 | Taux : 2487 ] Aucun pheromone vers nourriture
+Pheromone[id:510 quantite: 0]  en position (11, 9) Vers colonie [ Direction : 0,-1 | Taux : 2496 ] Aucun pheromone vers nourriture
+Pheromone[id:517 quantite: 0]  en position (11, 10) Vers colonie [ Direction : 0,-1 | Taux : 2496 ] Aucun pheromone vers nourriture
+Pheromone[id:524 quantite: 0]  en position (11, 11) Vers colonie [ Direction : 0,-1 | Taux : 2492 ] Aucun pheromone vers nourriture
+Pheromone[id:535 quantite: 0]  en position (11, 12) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:541 quantite: 0]  en position (11, 13) Vers colonie [ Direction : 0,-1 | Taux : 2499 ] Aucun pheromone vers nourriture
+Pheromone[id:549 quantite: 0]  en position (11, 14) Vers colonie [ Direction : 0,-1 | Taux : 2494 ] Aucun pheromone vers nourriture
+Pheromone[id:552 quantite: 0]  en position (11, 15) Vers colonie [ Direction : 0,-1 | Taux : 2484 ] Aucun pheromone vers nourriture
+</Ressources>
+<Evolution>
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|0
+0|4
+0|4
+0|6
+0|9
+0|17
+0|23
+0|29
+0|44
+0|57
+0|89
+0|123
+0|149
+0|185
+0|216
+0|228
+0|250
+0|250
+0|250
+0|250
+0|250
+0|250
+0|250
+0|250
+0|250
+0|250
+0|257
+0|265
+0|265
+0|270
+0|283
+0|309
+0|335
+0|349
+0|357
+0|370
+0|370
+0|383
+0|393
+0|404
+0|418
+0|429
+0|437
+0|439
+0|444
+0|453
+4|474
+4|485
+4|495
+12|506
+12|509
+19|511
+31|517
+31|534
+33|547
+43|553
+46|553
+56|572
+69|579
+86|597
+99|606
+105|616
+125|620
+133|624
+139|629
+143|629
+155|629
+161|629
+186|629
+193|629
+198|633
+204|633
+211|638
+213|638
+216|638
+230|638
+236|638
+240|638
+244|638
+250|641
+250|641
+250|641
+250|641
+250|641
+250|641
+255|641
+255|644
+255|646
+259|651
+262|651
+262|654
+266|654
+266|660
+272|660
+277|660
+290|663
+293|663
+302|663
+304|663
+314|663
+317|663
+321|663
+330|663
+335|669
+335|669
+335|672
+346|676
+355|676
+363|676
+388|676
+411|683
+418|691
+422|703
+433|709
+439|709
+445|714
+447|718
+464|718
+477|742
+481|752
+485|775
+487|788
+492|799
+492|803
+512|807
+529|807
+533|813
+533|819
+535|823
+535|825
+551|825
+562|828
+569|832
+575|840
+588|840
+592|844
+598|852
+604|860
+608|860
+616|869
+616|889
+616|895
+629|917
+629|928
+629|932
+629|937
+629|941
+634|957
+634|965
+638|976
+638|983
+638|1000
+638|1000
+638|1002
+638|1009
+638|1018
+641|1029
+644|1044
+644|1071
+650|1085
+655|1086
+655|1086
+658|1086
+667|1086
+667|1089
+667|1094
+667|1096
+667|1105
+667|1123
+667|1123
+673|1127
+673|1127
+676|1133
+676|1133
+676|1145
+676|1148
+676|1159
+676|1159
+676|1162
+676|1172
+676|1172
+676|1172
+682|1177
+682|1181
+682|1183
+684|1187
+684|1187
+686|1201
+694|1211
+694|1220
+696|1224
+709|1228
+711|1234
+714|1234
+724|1234
+724|1234
+734|1234
+738|1245
+742|1245
+750|1255
+750|1258
+750|1270
+750|1272
+750|1279
+750|1282
+750|1292
+750|1299
+750|1312
+750|1312
+750|1312
+750|1319
+750|1321
+750|1326
+750|1328
+750|1328
+750|1330
+750|1330
+750|1330
+750|1330
+750|1335
+750|1335
+750|1335
+750|1339
+750|1347
+750|1347
+750|1353
+750|1359
+750|1367
+750|1374
+750|1378
+750|1397
+750|1402
+750|1402
+750|1405
+750|1411
+750|1420
+750|1426
+750|1426
+750|1435
+750|1435
+750|1435
+750|1435
+750|1439
+750|1439
+750|1439
+750|1439
+750|1449
+750|1454
+750|1456
+750|1456
+750|1456
+750|1460
+750|1460
+750|1460
+750|1460
+750|1463
+750|1463
+750|1463
+750|1472
+750|1474
+750|1474
+750|1474
+750|1484
+750|1484
+750|1484
+750|1487
+750|1493
+750|1493
+753|1493
+755|1493
+755|1495
+755|1495
+755|1497
+755|1497
+764|1497
+769|1497
+779|1501
+779|1501
+779|1501
+783|1503
+783|1503
+799|1503
+799|1503
+802|1503
+802|1508
+810|1508
+819|1517
+823|1521
+829|1521
+833|1521
+840|1527
+840|1527
+845|1529
+845|1537
+845|1541
+852|1545
+855|1545
+861|1545
+877|1551
+877|1551
+877|1554
+894|1554
+921|1554
+932|1559
+940|1565
+960|1565
+974|1565
+980|1570
+993|1576
+997|1580
+1009|1580
+1017|1580
+1021|1580
+1021|1580
+1044|1589
+1052|1589
+1068|1591
+1074|1591
+1076|1593
+1078|1593
+1080|1593
+1089|1599
+1089|1599
+1100|1599
+1107|1603
+1114|1607
+1127|1618
+1127|1622
+1131|1627
+1131|1629
+1131|1629
+1137|1629
+1152|1633
+1167|1633
+1167|1643
+1172|1643
+1172|1647
+1177|1650
+1177|1653
+1177|1659
+1181|1665
+1181|1665
+1181|1665
+1181|1665
+1185|1674
+1185|1687
+1189|1692
+1191|1698
+1195|1698
+1203|1701
+1203|1703
+1209|1703
+1217|1705
+1221|1705
+1226|1710
+1228|1719
+1238|1719
+1240|1724
+1240|1724
+1240|1724
+1240|1733
+1246|1733
+1255|1733
+1258|1733
+1274|1737
+1282|1737
+1282|1737
+1282|1737
+1285|1737
+1290|1737
+1292|1737
+1296|1737
+1296|1737
+1300|1737
+1300|1737
+1308|1737
+1316|1737
+1324|1737
+1324|1742
+1340|1746
+1340|1746
+1342|1746
+1346|1746
+1346|1746
+1354|1746
+1368|1746
+1368|1746
+1370|1746
+1370|1748
+1377|1748
+1387|1748
+1387|1748
+1403|1750
+1409|1753
+1412|1756
+1414|1756
+1414|1756
+1419|1756
+1419|1756
+1424|1756
+1424|1756
+1429|1756
+1436|1756
+1436|1756
+1440|1756
+1440|1756
+1440|1756
+1446|1756
+1449|1756
+1451|1756
+1455|1756
+1462|1756
+1468|1756
+1468|1756
+1470|1756
+1475|1756
+1475|1756
+1477|1758
+1477|1758
+1477|1758
+1492|1758
+1495|1766
+1495|1770
+1495|1770
+1495|1770
+1495|1775
+1495|1775
+1498|1775
+1498|1775
+1498|1775
+1498|1778
+1498|1778
+1502|1778
+1502|1778
+1502|1778
+1504|1783
+1504|1783
+1506|1783
+1506|1783
+1506|1783
+1511|1783
+1511|1783
+1511|1783
+1511|1783
+1511|1783
+1511|1783
+1511|1783
+1511|1783
+1525|1783
+1529|1783
+1534|1783
+1537|1783
+1540|1783
+1550|1783
+1550|1785
+1560|1785
+1560|1787
+1560|1787
+1560|1789
+1560|1791
+1565|1791
+1576|1791
+1576|1791
+1576|1795
+1578|1795
+1578|1795
+1578|1795
+1578|1804
+1584|1804
+1588|1804
+1592|1804
+1596|1804
+1599|1811
+1599|1811
+1599|1811
+1599|1816
+1599|1821
+1599|1821
+1599|1821
+1609|1831
+1609|1831
+1609|1843
+1615|1843
+1621|1849
+1625|1851
+1625|1851
+1634|1851
+1634|1858
+1634|1858
+1634|1858
+1634|1860
+1634|1865
+1636|1873
+1636|1876
+1641|1883
+1653|1883
+1657|1883
+1671|1883
+1671|1883
+1671|1883
+1674|1885
+1680|1893
+1689|1893
+1689|1897
+1692|1903
+1695|1928
+1695|1931
+1698|1940
+1698|1953
+1698|1953
+1705|1959
+1705|1962
+1707|1962
+1707|1962
+1707|1976
+1716|1985
+1716|1991
+1716|2001
+1721|2001
+1721|2008
+1721|2010
+1725|2010
+1730|2015
+1730|2021
+1730|2026
+1734|2027
+1734|2027
+1734|2027
+1734|2027
+1734|2027
+1734|2027
+1734|2027
+1734|2027
+1734|2029
+1734|2029
+1734|2035
+1734|2035
+1734|2035
+1737|2035
+1737|2035
+1737|2041
+1746|2044
+1746|2044
+1746|2044
+1748|2046
+1748|2052
+1748|2061
+1750|2067
+1753|2069
+1753|2069
+1753|2069
+1753|2073
+1753|2084
+1753|2088
+1753|2088
+1753|2090
+1753|2090
+1756|2090
+1756|2090
+1756|2098
+1756|2098
+1756|2098
+1756|2100
+1756|2100
+1756|2106
+1756|2106
+1756|2113
+1756|2118
+1756|2118
+1756|2118
+1756|2118
+1756|2124
+1756|2124
+1756|2127
+1756|2132
+1756|2132
+1756|2132
+1756|2141
+1756|2146
+1756|2146
+1756|2146
+1756|2148
+1756|2148
+1756|2156
+1756|2167
+1756|2167
+1756|2167
+1756|2170
+1756|2170
+1756|2170
+1756|2175
+1756|2179
+1756|2184
+1756|2188
+1756|2188
+1756|2207
+1756|2207
+1756|2207
+1756|2220
+1762|2227
+1762|2231
+1770|2245
+1770|2251
+1770|2254
+1773|2254
+1773|2256
+1773|2258
+1778|2262
+1778|2274
+1778|2278
+1778|2278
+1778|2278
+1778|2283
+1778|2286
+1778|2290
+1778|2292
+1778|2298
+1778|2303
+1783|2308
+1783|2312
+1783|2316
+1783|2321
+1783|2321
+1783|2325
+1783|2325
+1783|2335
+1783|2340
+1783|2340
+1783|2342
+1783|2344
+1783|2349
+1783|2364
+1783|2364
+1783|2367
+1783|2371
+1783|2383
+1783|2390
+1783|2407
+1783|2410
+1785|2413
+1787|2418
+1787|2420
+1787|2422
+1793|2422
+1795|2422
+1795|2422
+1799|2424
+1799|2424
+1799|2424
+1803|2426
+1803|2426
+1803|2426
+1806|2426
+1810|2426
+1810|2426
+1810|2426
+1810|2426
+1816|2426
+1832|2426
+1832|2431
+1837|2431
+1837|2435
+1837|2435
+1843|2435
+1845|2435
+1853|2435
+1856|2435
+1856|2435
+1861|2438
+1861|2438
+1861|2438
+1861|2438
+1865|2438
+1869|2438
+1869|2438
+1873|2438
+1875|2438
+1888|2438
+1899|2442
+1907|2442
+1907|2442
+1919|2442
+1929|2442
+1932|2442
+1937|2446
+1943|2446
+1958|2446
+1960|2450
+1960|2450
+1964|2450
+1978|2453
+1995|2458
+2000|2458
+2000|2458
+2003|2458
+2005|2458
+2005|2458
+2008|2458
+2013|2458
+2013|2458
+2013|2458
+2019|2463
+2019|2463
+2024|2463
+2024|2463
+2027|2463
+2027|2463
+2027|2463
+2027|2463
+2027|2463
+2027|2467
+2027|2467
+2027|2467
+2027|2467
+2027|2467
+2027|2467
+2027|2473
+2027|2473
+2027|2473
+2027|2473
+2027|2473
+2027|2476
+2027|2476
+2027|2481
+2027|2486
+2027|2486
+2027|2486
+2027|2492
+2027|2495
+2029|2495
+2029|2495
+2029|2495
+2031|2495
+2031|2495
+2037|2495
+2040|2495
+2040|2501
+2046|2501
+2049|2504
+2060|2504
+2064|2504
+2066|2504
+2066|2504
+2072|2504
+2072|2504
+2074|2504
+2074|2504
+2082|2504
+2082|2504
+2082|2504
+2082|2504
+2095|2504
+2095|2504
+2101|2504
+2106|2504
+2106|2504
+2106|2504
+2109|2504
+2109|2504
+2109|2504
+2113|2504
+2113|2504
+2116|2504
+2129|2504
+2132|2504
+2134|2504
+2147|2504
+2147|2504
+2147|2504
+2147|2504
+2147|2504
+2157|2504
+2157|2504
+2157|2504
+2157|2507
+2157|2510
+2163|2510
+2177|2510
+2181|2515
+2181|2515
+2187|2515
+2187|2515
+2187|2515
+2193|2515
+2203|2515
+2217|2515
+2217|2515
+2224|2517
+2237|2517
+2243|2520
+2252|2526
+2256|2538
+2256|2538
+2256|2542
+2260|2542
+2263|2546
+2263|2546
+2275|2546
+2277|2546
+2277|2546
+2277|2546
+2286|2552
+2290|2552
+2290|2552
+2290|2552
+2294|2552
+2300|2557
+2300|2557
+2300|2557
+2300|2557
+2304|2562
+2304|2562
+2313|2562
+2313|2562
+2321|2562
+2327|2562
+2327|2562
+2333|2562
+2343|2564
+2349|2564
+2356|2564
+2361|2564
+2367|2564
+2379|2564
+2384|2564
+2391|2564
+2393|2564
+2402|2564
+2404|2564
+2409|2567
+2409|2567
+2409|2567
+2411|2567
+2411|2567
+2411|2567
+2411|2567
+2411|2567
+2413|2567
+2413|2567
+2413|2567
+2418|2567
+2423|2567
+2423|2567
+2426|2567
+2426|2572
+2426|2572
+2426|2572
+2431|2572
+2431|2574
+2431|2574
+2431|2583
+2434|2583
+2434|2583
+2434|2583
+2434|2585
+2434|2589
+2434|2589
+2434|2589
+2434|2589
+2434|2589
+2438|2591
+2438|2591
+2438|2594
+2438|2594
+2438|2594
+2442|2594
+2446|2597
+2446|2597
+2446|2597
+2446|2597
+2446|2602
+2446|2602
+2450|2604
+2450|2604
+2450|2604
+2450|2604
+2450|2604
+2450|2604
+2453|2608
+2453|2608
+2453|2610
+2458|2616
+2458|2621
+2458|2627
+2458|2627
+2463|2627
+2463|2627
+2463|2627
+2463|2627
+2463|2633
+2463|2636
+2463|2636
+2463|2636
+2463|2636
+2463|2636
+2463|2636
+2463|2636
+2463|2640
+2463|2640
+2463|2644
+2465|2644
+2465|2644
+2465|2644
+2471|2644
+2471|2647
+2471|2647
+2471|2647
+2474|2647
+2474|2650
+2478|2655
+2478|2655
+2483|2655
+2483|2655
+2486|2655
+2490|2660
+2490|2665
+2490|2665
+2495|2669
+2495|2669
+2495|2669
+2495|2669
+2501|2669
+2501|2669
+2501|2669
+2504|2669
+2504|2669
+2504|2669
+2504|2669
+2504|2669
+2504|2674
+2504|2674
+2504|2674
+2504|2674
+2504|2680
+2504|2680
+2504|2680
+2504|2680
+2504|2680
+2504|2680
+2504|2680
+2504|2680
+2504|2680
+2504|2684
+2504|2684
+2504|2684
+2504|2684
+2504|2684
+2504|2684
+2504|2684
+2504|2684
+2504|2684
+2504|2689
+2504|2689
+2504|2689
+2504|2689
+2504|2689
+2504|2689
+2504|2691
+2507|2697
+2507|2697
+2510|2697
+2510|2697
+2510|2703
+2510|2703
+2515|2703
+2515|2703
+2515|2703
+2515|2706
+2515|2711
+2515|2711
+2515|2711
+2515|2711
+2515|2711
+2515|2715
+2515|2715
+2515|2715
+2519|2726
+2524|2726
+2524|2726
+2536|2726
+2536|2726
+2536|2726
+2542|2726
+2542|2726
+2542|2726
+2542|2730
+2542|2730
+2546|2730
+2546|2732
+2546|2736
+2552|2736
+2552|2736
+2552|2741
+2557|2741
+2557|2746
+2557|2746
+2557|2752
+2557|2758
+2559|2758
+2559|2758
+2562|2760
+2562|2760
+2562|2760
+2562|2760
+2562|2767
+2562|2767
+2562|2767
+2562|2771
+2562|2771
+2562|2775
+2567|2785
+2567|2789
+2567|2789
+2567|2799
+2567|2799
+2567|2801
+2567|2803
+2567|2803
+2567|2807
+2567|2807
+2567|2807
+2567|2807
+2567|2807
+2567|2809
+2567|2816
+2567|2816
+2567|2816
+2567|2816
+2567|2820
+2567|2820
+2567|2820
+2567|2820
+2567|2820
+2567|2820
+2567|2820
+2567|2820
+2567|2823
+2567|2823
+2567|2823
+2567|2823
+2567|2823
+2567|2823
+2567|2823
+2567|2823
+2567|2823
+2567|2823
+2567|2823
+2572|2823
+2580|2823
+2582|2823
+2582|2823
+2582|2823
+2582|2823
+2589|2823
+2589|2823
+2589|2823
+2589|2823
+2589|2823
+2589|2823
+2589|2823
+2589|2823
+2589|2823
+2589|2823
+2592|2823
+2592|2823
+2597|2823
+2597|2823
+2597|2823
+2597|2823
+2597|2823
+2597|2823
+2597|2823
+2599|2823
+2599|2823
+2602|2823
+2602|2823
+2604|2823
+2604|2823
+2604|2823
+2604|2823
+2608|2823
+2608|2823
+2610|2823
+2618|2823
+2618|2823
+2618|2823
+2622|2823
+2624|2823
+2630|2828
+2634|2828
+2637|2833
+2637|2833
+2637|2833
+2644|2833
+2644|2833
+2644|2833
+2644|2833
+2644|2833
+2644|2838
+2647|2840
+2647|2840
+2647|2840
+2647|2840
+2650|2840
+2650|2840
+2650|2840
+2650|2840
+2650|2840
+2650|2840
+2655|2840
+2655|2840
+2655|2843
+2664|2843
+2664|2843
+2664|2843
+2669|2843
+2669|2843
+2669|2843
+2669|2849
+2669|2849
+2669|2861
+2669|2861
+2669|2861
+2669|2861
+2669|2866
+2669|2872
+2669|2881
+2669|2881
+2669|2881
+2669|2881
+2669|2881
+2669|2881
+2669|2883
+2669|2883
+2674|2883
+2674|2883
+2674|2883
+2680|2883
+2680|2891
+2680|2891
+2680|2891
+2680|2893
+2680|2893
+2680|2893
+2684|2893
+2684|2895
+2684|2905
+2684|2905
+2684|2907
+2684|2914
+2684|2914
+2684|2914
+2684|2916
+2684|2916
+2684|2916
+2689|2916
+2689|2922
+2689|2922
+2689|2922
+2689|2922
+2689|2925
+2695|2930
+2695|2932
+2697|2932
+2697|2932
+2697|2932
+2697|2936
+2697|2939
+2697|2941
+2708|2944
+2711|2944
+2711|2944
+2716|2944
+2722|2950
+2726|2953
+2726|2956
+2730|2956
+2730|2962
+2730|2962
+2730|2962
+2730|2962
+2735|2975
+2735|2981
+2735|2981
+2735|2981
+2735|2986
+2735|2988
+2735|2997
+2735|3000
+2735|3000
+2740|3000
+2742|3000
+2742|3000
+2742|3000
+2746|3000
+2746|3000
+2746|3000
+2746|3000
+2752|3000
+2752|3000
+2752|3000
+2763|3000
+2765|3000
+2765|3000
+2765|3000
+2765|3000
+2767|3000
+2767|3000
+2767|3000
+2767|3000
+2771|3000
+2775|3000
+2785|3000
+2789|3000
+2789|3000
+2799|3000
+2801|3000
+2803|3000
+2803|3000
+2807|3000
+2807|3000
+2811|3000
+2811|3000
+2813|3000
+2813|3000
+2816|3000
+2816|3000
+2816|3000
+2816|3000
+2819|3000
+2819|3000
+2819|3000
+2819|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2823|3000
+2828|3000
+2828|3000
+2828|3000
+2828|3000
+2828|3000
+2828|3000
+2828|3000
+2833|3000
+2833|3000
+2833|3000
+2833|3000
+2833|3000
+2833|3000
+2833|3000
+2833|3000
+2833|3000
+2833|3000
+2833|3000
+2833|3000
+2838|3000
+2838|3000
+2841|3000
+2843|3000
+2843|3000
+2843|3000
+2843|3000
+2843|3000
+2843|3000
+2849|3000
+2849|3000
+2849|3000
+2849|3000
+2849|3000
+2849|3000
+2849|3000
+2852|3000
+2852|3000
+2852|3000
+2852|3000
+2852|3000
+2860|3000
+2860|3000
+2866|3000
+2866|3000
+2870|3000
+2870|3000
+2872|3000
+2878|3000
+2878|3000
+2878|3000
+2878|3000
+2878|3000
+2880|3000
+2880|3000
+2880|3000
+2882|3000
+2882|3000
+2882|3000
+2882|3000
+2882|3000
+2892|3000
+2892|3000
+2894|3000
+2896|3000
+2898|3000
+2898|3000
+2898|3000
+2898|3000
+2898|3000
+2898|3000
+2901|3000
+2901|3000
+2901|3000
+2903|3000
+2912|3000
+2912|3000
+2917|3000
+2917|3000
+2917|3000
+2917|3000
+2917|3000
+2917|3000
+2917|3000
+2917|3000
+2917|3000
+2917|3000
+2923|3000
+2923|3000
+2936|3000
+2936|3000
+2936|3000
+2941|3000
+2951|3000
+2954|3000
+2954|3000
+2962|3000
+2962|3000
+2967|3000
+2967|3000
+2969|3000
+2972|3000
+2972|3000
+2980|3000
+2985|3000
+2985|3000
+2987|3000
+2993|3000
+2996|3000
+2996|3000
+2996|3000
+</Evolution>
